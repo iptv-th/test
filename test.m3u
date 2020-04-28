@@ -147,10 +147,22 @@ https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1 group-title="Skynet"tvg-logo="https://teevee-hd.com/img/skynetsport6.png",SPORT- SKYNET SPORTS6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
-#EXTINF:-1 , lfctv
+#EXTINF:-1 ,Sport- LFCTV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
-#EXTINF:-1 , premiersports
+#EXTINF:-1 ,Sport- premiersports
 http://160.119.77.50/iptv/uk-premiersports.stream/playlist.m3u8
+#EXTINF:-1,Sport- Racing
+http://160.119.77.50/iptv/uk-racing.stream/playlist.m3u8
+#EXTINF:-1,Sports- BTSPORT1
+http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1,Sports- BTSPORT2
+http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1,Sports- Skysport EPL
+http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1,Sports- Skysport Mainevent
+http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:-1,Sports- Skysport F1
+http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:-1,CARTOON- Cartoon Network
 https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
 #EXTINF:-1,CARTOON- BOOMERANG HD
@@ -228,4 +240,13 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" tvg-country="JP" tvg-url="" group-title="",日本购物2
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="News",BBC World News (Backup)
+http://51.52.156.22:8888/http/004
+#EXTINF:-1,News- Foxnews
+http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
+#EXTINF:-1,News- Skynews
+http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
+#EXTINF:-1,News- BBCNews1
+http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
+#EXTINF:-1,News- BBCNews3
+http://160.119.77.50/iptv/uk-bbc3hd.stream/playlist.m3u8
