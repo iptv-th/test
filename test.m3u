@@ -37,14 +37,10 @@ http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playli
 http://160.119.77.50/iptv/sd-new.stream/playlist.m3u8
 #EXTINF:-1,ไทยรัฐสภา
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1, News 1
+http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1,FAN TV
 http://103.120.113.90:1935/psilive2a/FanTV.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Document"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/42adbeee-622d-4f7e-8999-f274859fd9d6.png",True Explore Wild
-http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
-#EXTINF:-1 group-title="Document"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/88fdbeeb-ffbb-477f-aa10-299fde2a3707.png",True Explore Life
-http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
-#EXTINF:-1 group-title="Document"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/15448025-d8d6-4232-bb7c-8f05db423b3c.png",True Explore Science
-http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
 #EXTINF:-1,True Xzyte
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1,สาระคดี- SARADEE99
@@ -103,16 +99,8 @@ http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
 #EXTINF:-1,SPORT - TRUE SPORT HD4
 http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp2.png",SPORT - TRUE SPORT 2
-http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp5.png",SPORT - TRUE SPORT 5
-http://160.119.77.50/iptv/sd-tsport5.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp6.png",SPORT - TRUE SPORT 6
-http://160.119.77.50/iptv/sd-tsport6.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp7.png",SPORT - TRUE SPORT 7
-http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
 #EXTINF:-1 ,SPORT- True PREMIER HD1
-http://27.254.149.109:8081/tumlive/TFBHD1/chunks.m3u8
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 #EXTINF:-1 ,SPORT- True PREMIER HD2
 http://27.254.149.109:8081/tumlive/TFBHD2/chunks.m3u8
 #EXTINF:-1 ,SPORT- True PREMIER HD3
@@ -128,13 +116,13 @@ http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8
 #EXTINF:-1 ,SPORT- True NBA
 http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
 #EXTINF:-1 ,SPORT - FOX SPORT HD1
-http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1 ,SPORT - FOX SPORT HD2
 http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8
 #EXTINF:-1 ,SPORT - FOX SPORT HD3
 http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Skynet"tvg-logo="https://teevee-hd.com/img/skynetsport.png",SPORT- SKYNET SPORTS HD
-https://cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8
+http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 #EXTINF:-1 group-title="Skynet"tvg-logo="https://teevee-hd.com/img/skynetsport1.png",SPORT- SKYNET SPORTS1
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
 #EXTINF:-1 group-title="Skynet"tvg-logo="https://teevee-hd.com/img/skynetsport2.png",SPORT- SKYNET SPORTS2
@@ -147,6 +135,8 @@ https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1 group-title="Skynet"tvg-logo="https://teevee-hd.com/img/skynetsport6.png",SPORT- SKYNET SPORTS6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
+#EXTINF:-1,Sport- Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,Sport- LFCTV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 ,Sport- premiersports
@@ -173,10 +163,8 @@ http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
 http://203.154.243.31:8081/live/animax/index.m3u8
 #EXTINF:-1,CARTOON- Boomerang
 http://203.154.243.31:8081/live/boomerrang/index.m3u8
-#EXTINF:-1,CARTOON- True Spark Jump
-http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
-#EXTINF:-1,CARTOON- True Spark Play
-http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
+#EXTINF:-1,CARTOON- Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,CARTOON- cartoonito
 http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
 #EXTINF:-1,CARTOON- TOONEE
