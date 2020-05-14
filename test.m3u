@@ -45,6 +45,12 @@ http://103.120.113.90:1935/psilive2a/FanTV.stream_360p/playlist.m3u8
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1,สาระคดี- SARADEE99
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Document"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/42adbeee-622d-4f7e-8999-f274859fd9d6.png",True Explore Wild
+http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+#EXTINF:-1 group-title="Document"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/88fdbeeb-ffbb-477f-aa10-299fde2a3707.png",True Explore Life
+http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
+#EXTINF:-1 group-title="Document"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/15448025-d8d6-4232-bb7c-8f05db423b3c.png",True Explore Science
+http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
 #EXTINF:-1 ,สาระคดี- National GEOGRAPHIC
 http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8 
 #EXTINF:-1 ,สาระคดี-  HISTORY HD
@@ -93,6 +99,14 @@ http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 #EXTINF:-1,MOVIE- UP Movies
 http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
+#EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp2.png",SPORT - TRUE SPORT 2
+http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp5.png",SPORT - TRUE SPORT 5
+http://160.119.77.50/iptv/sd-tsport5.stream/playlist.m3u8
+#EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp6.png",SPORT - TRUE SPORT 6
+http://160.119.77.50/iptv/sd-tsport6.stream/playlist.m3u8
+#EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp7.png",SPORT - TRUE SPORT 7
+http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
 #EXTINF:-1,SPORT - TRUE SPORT HD1
 http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
 #EXTINF:-1,SPORT - TRUE SPORT HD2
@@ -155,6 +169,10 @@ http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 #EXTINF:-1,Sports- Skysport F1
 http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1,CARTOON- True Spark Jump
+http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
+#EXTINF:-1,CARTOON- True Spark Play
+http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1,CARTOON- Cartoon Network
 https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
 #EXTINF:-1,CARTOON- BOOMERANG HD
@@ -165,8 +183,6 @@ http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
 http://203.154.243.31:8081/live/animax/index.m3u8
 #EXTINF:-1,CARTOON- Boomerang
 http://203.154.243.31:8081/live/boomerrang/index.m3u8
-#EXTINF:-1,CARTOON- Disney Channel
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,CARTOON- cartoonito
 http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
 #EXTINF:-1,CARTOON- TOONEE
