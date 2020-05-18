@@ -256,33 +256,33 @@ http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
 #EXTINF:-1,News- BBCNews3
 http://160.119.77.50/iptv/uk-bbc3hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",DLTV1
-http://dltv-live-edge.catcdn.cloud/playlist/dltv01.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png",DLTV2
-http://dltv-live-edge.catcdn.cloud/playlist/dltv02.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png",DLTV3
-http://dltv-live-edge.catcdn.cloud/playlist/dltv03.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png",DLTV4
-http://dltv-live-edge.catcdn.cloud/playlist/dltv04.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png",DLTV5
-http://dltv-live-edge.catcdn.cloud/playlist/dltv05.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png",DLTV6
-http://dltv-live-edge.catcdn.cloud/playlist/dltv06.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png",DLTV7
-http://dltv-live-edge.catcdn.cloud/playlist/dltv07.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png",DLTV8
-http://dltv-live-edge.catcdn.cloud/playlist/dltv08.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png",DLTV9
-http://dltv-live-edge.catcdn.cloud/playlist/dltv09.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png",DLTV10
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png",DLTV10 - อนุบาลศึกษาปีที่  1
 http://dltv-live-edge.catcdn.cloud/playlist/dltv10.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png",DLTV11
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png",DLTV11 - อนุบาลศึกษาปีที่  2
 http://dltv-live-edge.catcdn.cloud/playlist/dltv11.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png",DLTV12
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png",DLTV12 - อนุบาลศึกษาปีที่ 3 
 http://dltv-live-edge.catcdn.cloud/playlist/dltv12.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png",DLTV13
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",DLTV1 - ประถมศึกษาปีที่ 1
+http://dltv-live-edge.catcdn.cloud/playlist/dltv01.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png",DLTV2 - ประถมศึกษาปีที่ 2
+http://dltv-live-edge.catcdn.cloud/playlist/dltv02.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png",DLTV3 - ประถมศึกษาปีที่ 3
+http://dltv-live-edge.catcdn.cloud/playlist/dltv03.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png",DLTV4 - ประถมศึกษาปีที่ 4
+http://dltv-live-edge.catcdn.cloud/playlist/dltv04.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png",DLTV5 - ประถมศึกษาปีที่ 5
+http://dltv-live-edge.catcdn.cloud/playlist/dltv05.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png",DLTV6 - ประถมศึกษาปีที่ 6
+http://dltv-live-edge.catcdn.cloud/playlist/dltv06.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png",DLTV7 - มัธยมศึกษาปีที่ 1
+http://dltv-live-edge.catcdn.cloud/playlist/dltv07.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png",DLTV8 - มัธยมศึกษาปีที่ 2
+http://dltv-live-edge.catcdn.cloud/playlist/dltv08.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png",DLTV9 - มัธยมศึกษาปีที่ 3
+http://dltv-live-edge.catcdn.cloud/playlist/dltv09.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png",DLTV13 - มัธยมศึกษาปีที่ 4
 http://dltv-live-edge.catcdn.cloud/playlist/dltv13.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png",DLTV14
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png",DLTV14 - มัธยมศึกษาปีที่ 5
 http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
-#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png",DLTV15
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png",DLTV15 - มัธยมศึกษาปีที่ 6 
 http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
