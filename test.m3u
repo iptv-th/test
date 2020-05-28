@@ -109,14 +109,6 @@ http://203.154.243.31:8081/live/izaahd/index.m3u8
 http://203.154.243.31:8081/live/h-channel/index.m3u8
 #EXTINF:-1,MOVIE- Series
 http://203.154.243.31:8081/live/series/index.m3u8
-#EXTINF:-1,MOVIE- Movies 1
-http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
-#EXTINF:-1,MOVIE- Movies 2
-http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
-#EXTINF:-1,MOVIE- Movies 3
-http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
-#EXTINF:-1,MOVIE- UP Movies
-http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp2.png",SPORT - TRUE SPORT 2
 http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp5.png",SPORT - TRUE SPORT 5
