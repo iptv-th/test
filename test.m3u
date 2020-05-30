@@ -195,12 +195,6 @@ http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1,CARTOON- True Spark Play
 http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
-#EXTINF:-1,CARTOON- Cartoon Network
-https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
-#EXTINF:-1,CARTOON- BOOMERANG HD
-http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:-1,CARTOON- Cartoonito
-http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
 #EXTINF:-1,CARTOON- Animax
 http://203.154.243.31:8081/live/animax/index.m3u8
 #EXTINF:-1,CARTOON- Boomerang
