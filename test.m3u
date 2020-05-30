@@ -73,10 +73,6 @@ http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsEng-a/p4.m3u8
 #EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/2017070817274340453022.jpg",สาระคดี-  Discovery Sci
 https://streamidvo.multitvsolution.in/live/DiscoverScienceEng-a/p4.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/20170721182319325982392.jpg",สาระคดี-  Mysci
-https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",สาระคดี-  Samrujlok
-https://livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:-1 group-title="TV"tvg-logo="https://teevee-hd.com/img/mono29.png",Movie- MONO29
 http://live.pjmcdn.info/live/mono29.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://teevee-hd.com/img/monoplus.png",Movie- MONO PLUS
