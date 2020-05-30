@@ -205,47 +205,40 @@ https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/tracks-v1a1/mono.
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/cgtn.png"  group-title="inter",NEWS- CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/mvlao.png" , mvtv :OTHER- MVLao Channel
-https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w901852096.m3u8
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/mvm.png" , mvtv :OTHER- MYANMAR
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w801926917.m3u8
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/mvi.png" ,OTHER- MVI
-https://edge1a.v2h-cdn.com/appt7/WSM.stream_360p/chunklist_w1835773396.m3u8
-#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/tvb.png" ,OTHER- TVB drama
-https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" tvg-country="JP" tvg-url="" group-title="News",BBC News Japan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" tvg-country="JP" tvg-url="" group-title="News",JAPAN - BBC News Japan
 https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" tvg-country="JP" tvg-url="" group-title="",CGNTV 日本
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" tvg-country="JP" tvg-url="" group-title="",GSTV
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",NHK World Japan 1m
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",JAPAN - NHK World Japan HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",NHK World Japan 1mb
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",NHK World Japan 600k
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",NHK World Japan 600kb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",JAPAN - NHK World Japan SD
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",NHK 华语视界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",JAPAN - NHK 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" tvg-country="JP" tvg-url="" group-title="News",NTV News24
-http://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" tvg-country="JP" tvg-url="" group-title="News",NTV News24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" tvg-country="JP" tvg-url="" group-title="News",JAPAN - NTV News24
 http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://static.iptv-epg.com/jp/TBSNews.jp.png" tvg-country="JP" tvg-url="" group-title="News",TBS News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://static.iptv-epg.com/jp/TBSNews.jp.png" tvg-country="JP" tvg-url="" group-title="News",JAPAN - TBS News
 https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/9VXxnlo.png" tvg-country="JP" tvg-url="" group-title="",ウェザーニュース
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/9VXxnlo.png" tvg-country="JP" tvg-url="" group-title="",JAPAN - ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif" tvg-country="JP" tvg-url="" group-title="",ジャパネットチャンネルDX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif" tvg-country="JP" tvg-url="" group-title="",JAPAN - ジャパネットチャンネルDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/9u9TaMA.png" tvg-country="JP" tvg-url="" group-title="",日本QVC Japan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" tvg-country="JP" tvg-url="" group-title="",JAPAN - CGNTV 日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" tvg-country="JP" tvg-url="" group-title="",JAPAN - GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" tvg-country="JP" tvg-url="" group-title="Sport",JAPAN - New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" tvg-country="JP" tvg-url="" group-title="Local",JAPAN - Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/9u9TaMA.png" tvg-country="JP" tvg-url="" group-title="",JAPAN - 日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" tvg-country="JP" tvg-url="" group-title="",日本购物1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" tvg-country="JP" tvg-url="" group-title="",JAPAN - 日本购物1
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" tvg-country="JP" tvg-url="" group-title="",日本购物2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" tvg-country="JP" tvg-url="" group-title="",JAPAN - 日本购物2
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/s6f0LgS.jpg" tvg-country="JP" tvg-url="" group-title="News",JAPAN - BBC News Japan
+https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" tvg-country="JP" tvg-url="" group-title="Religious",JAPAN - CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="News",BBC World News (Backup)
 http://51.52.156.22:8888/http/004
 #EXTINF:-1,News- Foxnews
@@ -256,6 +249,12 @@ http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
 #EXTINF:-1,News- BBCNews3
 http://160.119.77.50/iptv/uk-bbc3hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/mvlao.png" , mvtv :OTHER- MVLao Channel
+https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w901852096.m3u8
+#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/mvm.png" , mvtv :OTHER- MYANMAR
+https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w801926917.m3u8
+#EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/tvb.png" ,OTHER- TVB drama
+https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
 #EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png",DLTV10 - อนุบาลศึกษาปีที่  1
 http://dltv-live-edge.catcdn.cloud/playlist/dltv10.m3u8
 #EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png",DLTV11 - อนุบาลศึกษาปีที่  2
