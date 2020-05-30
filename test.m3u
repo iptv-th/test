@@ -69,22 +69,12 @@ http://160.119.77.50/iptv/hd-history2.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",สาระคดี-  BBC LIFE STYLE
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Discovery_Kids_Canada.png",สาระคดี-  Discovery Kids
-http://streamidvo.multitvsolution.in/live/DiscoveryKidsEng-a/p4.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/2017070817274340453022.jpg",สาระคดี-  Discovery Sci
-https://streamidvo.multitvsolution.in/live/DiscoverScienceEng-a/p4.m3u8
 #EXTINF:-1 group-title="TV"tvg-logo="https://teevee-hd.com/img/mono29.png",Movie- MONO29
 http://live.pjmcdn.info/live/mono29.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://teevee-hd.com/img/monoplus.png",Movie- MONO PLUS
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
-#EXTINF:-1,Movie- M Channel
-http://103.120.113.90:1935/psilive3a/M_Channel.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="หนังเคเบิ้ล"tvg-logo="https://imgcloud.fwiptv.cc/postor/20200208001317Sammuang.jpg",Movie- สามเมือง
-http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/sammuang.stream/playlist.m3u8
 #EXTINF:-1,Movie- CH8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1,TRUE FILMHD2
-https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
 #EXTINF:-1 ,Movie- Fox Action Movie
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Movie- FOX MOVIES PREMIUM
@@ -115,8 +105,6 @@ http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
 #EXTINF:-1,Universal
 https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
-#EXTINF:-1,CTB 
-http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp2.png",SPORT - TRUE SPORT 2
 http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://teevee-hd.com/img/tsp5.png",SPORT - TRUE SPORT 5
