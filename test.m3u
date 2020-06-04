@@ -54,7 +54,8 @@ http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://p3.isanook.com/cl/0/up/2013/08/991.jpg",Music- Channal V
 http://kodinew.dyndns.tv:9981/stream/channelid/1539799167?
 #EXTINF:-1,สาระคดี- SARADEE99
-http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8#EXTINF:-1 group-title="Documentary" tvg-logo="http://www.dlit.ac.th/pages/library/images/TruePlookpanya.jpg",สาระคดี-  True Pookpanya 
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://www.dlit.ac.th/pages/library/images/TruePlookpanya.jpg",สาระคดี-  True Pookpanya 
 http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-rama.png",สาระคดี-  Rama Channel 
 http://160.119.77.50/iptv/sd-rama.stream/playlist.m3u8 
