@@ -32,15 +32,13 @@ http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint SD
 http://160.119.77.50/iptv/hd-workpoint.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/gmm.png",GMM
-http://host4.dynns.com/wevelwe/ab0b43ef8363438098a94101e93ca138.m3u8
+http://160.119.77.50:80/iptv/sd-gmmchannel.stream/chunks.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://teevee-hd.com/img/newtv.png",New18
 http://host4.dynns.com/wevelwe/0d01fdc1362f427ca5527c645f5f908f.m3u8
 #EXTINF:-1,ไทยรัฐสภา
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1, News 1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="Variety" Fah,Wan Mai
-http://host4.dynns.com/wevelwe/76221348029846b6a86cce2f76e60f82.m3u8
 
 
 #EXTINF:-1 group-title="บันเทิง"tvg-logo="https://teevee-hd.com/img/truexzyte.png",True Xzyte
@@ -53,12 +51,8 @@ http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://p3.isanook.com/cl/0/up/2013/08/991.jpg",Music- Channal V
 http://kodinew.dyndns.tv:9981/stream/channelid/1539799167?
-#EXTINF:-1,Music- Retro Music TV
-http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554622_b750000.m3u8
 
 
-#EXTINF:-1,สาระคดี- SARADEE99
-http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://www.dlit.ac.th/pages/library/images/TruePlookpanya.jpg",สาระคดี-  True Pookpanya 
 http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-rama.png",สาระคดี-  Rama Channel 
@@ -69,10 +63,6 @@ http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
 #EXTINF:-1 group-title="Document"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/15448025-d8d6-4232-bb7c-8f05db423b3c.png",สาระคดี-  True Explore Science
 http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
-#EXTINF:-1 ,สาระคดี- National GEOGRAPHIC
-http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8 
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/discovery.png",สาระคดี- DISCOVERY
-http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
 #EXTINF:-1 ,สาระคดี- History TH
 http://160.119.77.50/iptv/hd-history.stream/playlist.m3u8
 #EXTINF:-1 ,สาระคดี- H2 TH
@@ -81,10 +71,31 @@ http://160.119.77.50/iptv/hd-history2.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",สาระคดี-  BBC LIFE STYLE
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",สาระคดี- Natgeo Graphic TH 
+http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeowild.png",สาระคดี- Natgeo Wild TH
+https://tv4.chang55.com:446/live/tot06.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",สาระคดี- Natgeo People TH
+https://livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/discovery.png",สาระคดี- DISCOVERY
+http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-discovery.png",สาระคดี- Discovery Channel TH
+https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",สาระคดี- Discovery Asia TH
+http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",สาระคดี- Discoveryturbo
+http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-animalplanet.png",Animal Planet TH
+https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo='https://teevee-hd.com/img/afc.png',Asian Food
+http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
+#EXTINF:-1,สาระคดี- SARADEE99
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="TV"tvg-logo="https://teevee-hd.com/img/mono29.png",Movie- MONO29
-http://live.pjmcdn.info/live/mono29.stream/playlist.m3u8
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w360864676.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://teevee-hd.com/img/monoplus.png",Movie- MONO PLUS
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",Movie- True Movie Hits
@@ -95,6 +106,10 @@ http://27.254.149.109:8081/tumlive/FLA/playlist.m3u8
 http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:-1,Movie- CH8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-hbo.png",HBO Thai
+https://tv4.chang55.com:446/live2/tv4ch30.stream/chunks.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-hbohits.png",HBO HITS
+https://tv4.chang55.com:446/live2/tv4ch42.stream/chunks.m3u8
 #EXTINF:-1 ,Movie- Fox Action Movie
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Movie- FOX MOVIES PREMIUM
@@ -114,7 +129,7 @@ http://203.154.243.31:8081/live/izaahd/index.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="http://app.9koh.com/uploads/tv_image/universal-th.png",Movie- Universal(TH)
 https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1,Movie- CSAT Live SKY1
-http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
+http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/chunks.m3u8
 #EXTINF:-1,Movie- CSAT Live SKY2
 http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/chunks.m3u8
 #EXTINF:-1,Movie- CSAT Live SKY3
@@ -203,16 +218,42 @@ http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,Sport- LFCTV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
-#EXTINF:-1 ,Sport- premiersports
-http://160.119.77.50/iptv/uk-premiersports.stream/playlist.m3u8
-#EXTINF:-1,Sport- Racing
-http://160.119.77.50/iptv/uk-racing.stream/playlist.m3u8
-#EXTINF:-1,Sports- Skysport EPL
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://images.ufoiptv.com/channels/uk-liverpool.jpg",LFC TV
+http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-chelseatv.png",Chealsea TV
+http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://images.ufoiptv.com/channels/uk-mutv.jpg",MU TV
+http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591298321391_movie_image.png&d=movie" group-title="Sports World",BT ESPN
+http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591297707150_movie_image.jpg&d=movie" group-title="Sports World",BT EXTRA 1
+http://160.119.77.50/iptv/uk-btsportextra1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591297707150_movie_image.jpg&d=movie" group-title="Sports World",BT EXTRA 2
+http://160.119.77.50/iptv/uk-btsportextra2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591186017516_movie_image.png&d=movie" group-title="Sports World",BT SPORTS 1
+http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591186050368_movie_image.png&d=movie" group-title="Sports World",BT SPORTS 2
+http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591188751111_movie_image.jpg&d=movie" group-title="Sports World",BT SPORTS 3
+http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png", Sky Sports EPL
 http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:-1,Sports- Skysport Mainevent
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",UK Sky Sports Mainevent
 http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
-#EXTINF:-1,Sports- Skysport F1
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-golf.png",Sky Sports Golf
+http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-action.png",Sky Sports Action
+http://160.119.77.50/iptv/uk-skysports-action.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-arena.png",Sky Sports Arena
+http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-cricket.png",Sky Sports Cricket
+http://160.119.77.50/iptv/uk-skysports-cricket.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-f1.png",Sky Sports F1
 http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
+http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports World" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/de-skybundesliga.png",Sky Bundesliga
+http://160.119.77.50/iptv/de-skybundesliga.stream/playlist.m3u8
 
 
 #EXTINF:-1,CARTOON- True Spark Jump
@@ -229,6 +270,10 @@ http://203.154.243.31:8081/live/boomerrang/index.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kid"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",CARTOON- Gang Cartoon
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
+#EXTINF:-1 group-title="Kids"tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_big.png",Nick Jr TH
+http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kids"tvg-logo='https://niklive.com/kid/movie-tuiptv-moi/backend/web/index.php/api/file?f=1587439019711_movie_image.jpg&d=movie',Disney junior
+http://103.47.132.164:80/PLTV/88888888/224/3221226011/4.m3u8
 #EXTINF:-1,CARTOON- Animax
 http://203.154.243.31:8081/live/animax/index.m3u8
 #EXTINF:-1 ,CARTOON- cartoonito
@@ -283,6 +328,20 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",JAPAN - NHK 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hoxvBkF.png" group-title="JAPAN",JAPAN - BS Asahi (New!)
+http://203.162.235.41:16914
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5TaUGiC.png" group-title="JAPAN",JAPAN - BS Fuji (New!)
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F8vUpjV.png" group-title="JAPAN",JAPAN - BS Japan (New!)
+http://203.162.235.41:16915
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIWO2Jp.png" group-title="JAPAN",JAPAN - BS NTV (New!)
+http://203.162.235.41:16912
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OSxEPYU.png" group-title="JAPAN",JAPAN - BS TBS (New!)
+http://203.162.235.41:16913
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fuwPytF.png" group-title="JAPAN",JAPAN",JAPAN - Fuji TV (New!)
+http://203.162.235.41:16904
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="JAPAN",JAPAN - Nippon TV (New!)
+http://203.162.235.41:16905
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" tvg-country="JP" tvg-url="" group-title="News",JAPAN - NTV News24
 http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://static.iptv-epg.com/jp/TBSNews.jp.png" tvg-country="JP" tvg-url="" group-title="News",JAPAN - TBS News
