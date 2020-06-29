@@ -126,6 +126,8 @@ http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.tvchinese.net/uploads/tv/foxcrime.jpg",Fox Crime 
 http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie-2",foxcrimeeng
+http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/IZAA-360x270.png",iZaa Channel
 http://203.154.243.31:8081/live/izaahd/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://app.9koh.com/uploads/tv_image/universal-th.png",Universal(TH)
@@ -165,6 +167,7 @@ http://160.119.77.50/iptv/uk-channel4hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_MW5H-HuBaW2dDaA7yzgrypdtoswIOXYrAkX_qz0fKuPcOkWs&usqp=CAU",skypremiere
 http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
 
+
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
 http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp5.png",TRUE SPORT 5
@@ -182,11 +185,11 @@ http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport4.jpg",TRUE SPORT HD4
 http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True PREMIER HD1
-http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",True PREMIER HD2
-http://27.254.149.109:8081/tumlive/TFBHD2/chunks.m3u8
+http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",True PREMIER HD3
-http://27.254.149.109:8081/tumlive/TFBHD3/chunks.m3u8
+http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",True PREMIER HD4
 http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",True PREMIER HD5
@@ -341,8 +344,6 @@ http://203.162.235.41:16911
 http://203.162.235.41:16915
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/320px-BS4_logo.svg.png",BS NTV 
 http://203.162.235.41:16912
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqhGDHOq-dm--yaeWpwAiInDea-dMnsiVJehDHumPqJIM8Nxq&usqp=CAU",BS TBS
-http://203.162.235.41:16913
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/fuwPytF.jpg",JAPAN",Fuji TV 
 http://203.162.235.41:16904
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdEVI6-GzViLGrTPM2EGbiieZrc2PWl_1tPxSi1lWvvH7AUMCx&usqp=CAU",Nippon TV 
@@ -359,8 +360,6 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/8AM9fC8.jpg",GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png",Gunma TV
-https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-language="Japanese" tvg-logo="https://i.imgur.com/9u9TaMA.png",日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg",日本购物1
@@ -400,30 +399,3 @@ http://dltv-live-edge.catcdn.cloud/playlist/dltv13.m3u8
 http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
 #EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png" group-title="School",มัธยมศึกษาปีที่ 6 
 http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
-
-#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/96.5x.jpg" group-title="Radio",96.5 คลื่นความคิด
-https://mcotdigital-9ksau4.cdn.byteark.com/RadioLive/smil:fm965_live.smil/chunklist_w673711091_b500000.m3u8
-#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/97.5x.jpg" group-title="Radio",97.5 FM Seed FM
-https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8
-#EXTINF:-1 group-title="วิทยุ"  tvg-logo="https://www.adintrend.tv/images/radio/94x.jpg" group-title="Radio",Chill FM
-http://real4.atimemedia.com/chill
-#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/93x.jpg" group-title="Radio",Cool 93FM
-http://111.223.51.7:8100/;stream/1    
-#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/105.5x.jpg" group-title="Radio",Eazy FM
-https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8
-#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/95x.jpg" group-title="Radio",Fm95 Looktung        
-https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w2109631206.m3u8
-#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/96x.jpg" group-title="Radio",96Sport radio
-http://110.164.48.215:8000/smmradio
-#EXTINF:-1 group-title="วิทยุ" tvg-logo="https://www.adintrend.tv/images/radio/99x.jpg" group-title="Radio",Fm99 Active Radio
-https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunklist_w1668071839.m3u8
-#EXTINF:-1group-title="วิทยุ" tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif" group-title="Radio",Greenwave
-http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/met.png" group-title="Radio", met107
-https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8
-#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/95.5x.jpg" group-title="Radio",Virgin Hitz
-https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-High/chunklist_w1373688195.m3u8
-#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg" group-title="Radio",จส.100 (js100)
-http://112.121.151.133:8184/;&type=mp3
-#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png" group-title="Radio",มิติข่าว 90.5
-http://live3.smartbomb.co.th:8624/stream/1/
