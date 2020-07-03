@@ -18,7 +18,7 @@ http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
 http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png",Voice TV
-https://edge2a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL
 http://27.254.130.64/live01/ch8.m3u8?p=st
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH
@@ -86,7 +86,7 @@ http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discoveryturbo
 http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-animalplanet.png",Animal Planet TH
-https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary"tvg-logo='https://teevee-hd.com/img/afc.png',Asian Food Network
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",SARADEE99
@@ -110,10 +110,12 @@ http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",CH8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 group-title="Movie-1" ,AXN
+#EXTINF:-1 group-title="Movie-1" tvg-logo="https://images.iptvhero.com/channel/hd-axn.png",AXN
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie-1" ,CINEMAX
+#EXTINF:-1 group-title="Movie-1" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
 http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.doohdbox.com/assets/201707090903391006795571.jpg",Thrill
+http://203.154.243.31:8081/live/thrill/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://images.iptvhero.com/channel/hd-hbo.png",HBO Thai
 https://tv4.chang55.com:446/live2/tv4ch30.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://images.iptvhero.com/channel/hd-hbohits.png",HBO HITS
@@ -132,15 +134,15 @@ http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
 http://203.154.243.31:8081/live/izaahd/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://app.9koh.com/uploads/tv_image/universal-th.png",Universal(TH)
 https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://w7.pngwing.com/pngs/245/652/png-transparent-high-definition-television-film-720p-480p-1080p-others-television-label-text-thumbnail.png",CSAT Live SKY1
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/Sky1.jpg",CSAT Live SKY1
 http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://w7.pngwing.com/pngs/245/652/png-transparent-high-definition-television-film-720p-480p-1080p-others-television-label-text-thumbnail.png",CSAT Live SKY2
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/Sky2.jpg",CSAT Live SKY2
 http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://w7.pngwing.com/pngs/245/652/png-transparent-high-definition-television-film-720p-480p-1080p-others-television-label-text-thumbnail.png",CSAT Live SKY3
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/Sky3.jpg",CSAT Live SKY3
 http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://w7.pngwing.com/pngs/245/652/png-transparent-high-definition-television-film-720p-480p-1080p-others-television-label-text-thumbnail.png",CSAT Live SKY4
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/Sky4.jpg",CSAT Live SKY4
 http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://w7.pngwing.com/pngs/245/652/png-transparent-high-definition-television-film-720p-480p-1080p-others-television-label-text-thumbnail.png",Series+HD
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/Sky_series.jpg",Series+HD
 http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" ,Series Asia 
 http://203.154.243.31:8081/live/series/index.m3u8
@@ -267,6 +269,8 @@ http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1 group-title="CARTOON" ,Disney junior
 http://103.47.132.164:80/PLTV/88888888/224/3221226011/4.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-disney.png",Disney Channel
+http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/9247aa93-56ff-4746-acd3-bdf52d597ed6.png",Disney XD(True)
 https://tv4.chang55.com:446/live2/tv4ch29.stream/chunks.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://icon2.cleanpng.com/20180404/ooe/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4535d337.1986375915229005492205.jpg",Cartoon Network
@@ -399,3 +403,30 @@ http://dltv-live-edge.catcdn.cloud/playlist/dltv13.m3u8
 http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
 #EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png" group-title="School",มัธยมศึกษาปีที่ 6 
 http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
+
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/96.5x.jpg" group-title="Radio",96.5 คลื่นความคิด
+https://mcotdigital-9ksau4.cdn.byteark.com/RadioLive/smil:fm965_live.smil/chunklist_w673711091_b500000.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/97.5x.jpg" group-title="Radio",97.5 FM Seed FM
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8
+#EXTINF:-1 group-title="วิทยุ"  tvg-logo="https://www.adintrend.tv/images/radio/94x.jpg" group-title="Radio",Chill FM
+http://real4.atimemedia.com/chill
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/93x.jpg" group-title="Radio",Cool 93FM
+http://111.223.51.7:8100/;stream/1    
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/105.5x.jpg" group-title="Radio",Eazy FM
+https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/95x.jpg" group-title="Radio",Fm95 Looktung        
+https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w2109631206.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/96x.jpg" group-title="Radio",96Sport radio
+http://110.164.48.215:8000/smmradio
+#EXTINF:-1 group-title="วิทยุ" tvg-logo="https://www.adintrend.tv/images/radio/99x.jpg" group-title="Radio",Fm99 Active Radio
+https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunklist_w1668071839.m3u8
+#EXTINF:-1group-title="วิทยุ" tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif" group-title="Radio",Greenwave
+http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/met.png" group-title="Radio", met107
+https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/95.5x.jpg" group-title="Radio",Virgin Hitz
+https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-High/chunklist_w1373688195.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg" group-title="Radio",จส.100 (js100)
+http://112.121.151.133:8184/;&type=mp3
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png" group-title="Radio",มิติข่าว 90.5
+http://live3.smartbomb.co.th:8624/stream/1/
