@@ -164,11 +164,10 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
 #EXTINF:-1 group-title="Movie-2" ,Universal
 https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlfqITssSI41pVJXKnZ03J5owlpYJbX07hhQaOT9gm9UTrml-W&usqp=CAU",4HD Uk
-http://160.119.77.50/iptv/uk-channel4hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_MW5H-HuBaW2dDaA7yzgrypdtoswIOXYrAkX_qz0fKuPcOkWs&usqp=CAU",skypremiere
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_MW5H-HuBaW2dDaA7yzgrypdtoswIOXYrAkX_qz0fKuPcOkWs&usqp=CAU",Sky Cenima PremiereHD
 http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqGMyX-6uLQ26enEIx8GU9J69oKoVZRhoyl1speGwFz2auOppZ&usqp=CAU",Skyatlantic
+http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
 http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
@@ -223,38 +222,36 @@ https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://teevee-hd.com/img/skynetsport6.png",SKYNET SPORTS6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591298321391_movie_image.png&d=movie",BT ESPN
-http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591297707150_movie_image.jpg&d=movie",BT EXTRA 1
-http://160.119.77.50/iptv/uk-btsportextra1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591297707150_movie_image.jpg&d=movie",BT EXTRA 2
-http://160.119.77.50/iptv/uk-btsportextra2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591186017516_movie_image.png&d=movie",BT SPORTS 1
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591186050368_movie_image.png&d=movie",BT SPORTS 2
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591188751111_movie_image.jpg&d=movie",BT SPORTS 3
-http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS1 HD
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png ",beIN SPORTS2 HD
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
+http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/de-skybundesliga.png",Sky Bundesliga
+http://160.119.77.50/iptv/de-skybundesliga.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",Sky Sports EPL
 http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-mainevent.png",UK Sky Sports Mainevent
-http://160.119.77.50/iptv/uk-skysports-mainevent.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-golf.png",Sky Sports Golf
-http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-action.png",Sky Sports Action
-http://160.119.77.50/iptv/uk-skysports-action.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-arena.png",Sky Sports Arena
 http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-cricket.png",Sky Sports Cricket
 http://160.119.77.50/iptv/uk-skysports-cricket.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-f1.png",Sky Sports F1
 http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
-http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/de-skybundesliga.png",Sky Bundesliga
-http://160.119.77.50/iptv/de-skybundesliga.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYtT7usokX0l3HD3SBW0qR7nLjFa1JPmsXhQI2K4-dw-xm5T5a&usqp=CAU",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591186017516_movie_image.png&d=movie",BT SPORTS 1
+http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591186050368_movie_image.png&d=movie",BT SPORTS 2
+http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591188751111_movie_image.jpg&d=movie",BT SPORTS 3
+http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591298321391_movie_image.png&d=movie",BT ESPN
+http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591297707150_movie_image.jpg&d=movie",BT EXTRA 1
+http://160.119.77.50/iptv/uk-btsportextra1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591297707150_movie_image.jpg&d=movie",BT EXTRA 2
+http://160.119.77.50/iptv/uk-btsportextra2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://images.ufoiptv.com/channels/uk-liverpool.jpg",LFC TV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
@@ -372,6 +369,15 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/rXrSsiI.jpg",CGNTV Japan
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+
+#EXTINF:-1 group-title="Variety" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU",ลูกทุ่ง TVHD
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCXqpUcqYEs9LzRpVXCfzeHHQy1oN1K2Ke3cBeH4M1ryOHawKs&usqp=CAU",พระเครื่อง อ.ไบร์
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://tvtolive.com/wp-content/uploads/Boonniyom-TV-tvtolive.com_.jpg",บุญนิยม ทีวี
+http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
 
 #EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png" group-title="School",อนุบาลศึกษาปีที่  1
 http://dltv-live-edge.catcdn.cloud/playlist/dltv10.m3u8
