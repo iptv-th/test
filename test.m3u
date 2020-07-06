@@ -54,6 +54,8 @@ http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://p3.isanook.com/cl/0/up/2013/08/991.jpg",Channal V
 http://kodinew.dyndns.tv:9981/stream/channelid/1539799167?
+#EXTINF:-1 group-title="Variety" ,TVB Thai
+https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://www.dlit.ac.th/pages/library/images/TruePlookpanya.jpg",True Pookpanya 
 http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8 
@@ -77,17 +79,17 @@ http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Natgeo People TH
 https://livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY EN
 http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-discovery.png",Discovery Channel TH
 https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",Discovery Asia TH
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",True Discovery Asia
 http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discoveryturbo
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discovery Turbo EN
 http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-animalplanet.png",Animal Planet TH
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo='https://teevee-hd.com/img/afc.png',Asian Food Network
+#EXTINF:-1 group-title="Documentary"tvg-logo='https://teevee-hd.com/img/afc.png',True Asian Food Network
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",SARADEE99
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
@@ -98,14 +100,16 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",True Movie Hits
 http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
-#EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/11/true-film-asia.jpg",true film asia
+#EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/11/true-film-asia.jpg",True film asia
 http://27.254.149.109:8081/tumlive/FLA/playlist.m3u8
-#EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/truethaifilm.jpg",true THAIFILM(TH)
+#EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/truethaifilm.jpg",True THAIFILM(TH)
 https://tv4.chang55.com:446/live2/tv4ch86.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-filmasia.png",True Asian Series HD
 http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/ccm.jpg",Celestial Classic Movies 
-http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8 
+#EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/ccm.jpg",Trur Celestial Classic Movies 
+http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie-1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/08f0470b-4f2f-4459-a6cc-0006e97887b7_320.png",True TVB Xing He 星河频道
+http://160.119.77.50/iptv/sd-tvb.stream/playlist.m3u8 
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",True WARNER TV(THSub)
 http://160.119.77.50/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",CH8
@@ -116,7 +120,7 @@ http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.doohdbox.com/assets/201707090903391006795571.jpg",Thrill
 http://203.154.243.31:8081/live/thrill/index.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://images.iptvhero.com/channel/hd-hbo.png",HBO Thai
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://images.iptvhero.com/channel/hd-hbo.png",HBO EN
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO-EN HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -124,9 +128,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://tv4.chang55.com:446/live2/tv4ch42.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",HBO RED-TH
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-signature.jpg",hbo signature HD
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-signature.jpg",HBO Signature EN
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png",HBO Family
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png",HBO Family EN
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",Fox Action Movie
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
@@ -136,12 +140,6 @@ http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.tvchinese.net/uploads/tv/foxcrime.jpg",Fox Crime 
 http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie-2",foxcrimeeng
-http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/IZAA-360x270.png",iZaa Channel
-http://203.154.243.31:8081/live/izaahd/index.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="http://app.9koh.com/uploads/tv_image/universal-th.png",Universal(TH)
-https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/Sky1.jpg",CSAT Live SKY1
 http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/Sky2.jpg",CSAT Live SKY2
@@ -154,10 +152,6 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
 http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" ,Series Asia 
 http://203.154.243.31:8081/live/series/index.m3u8
-#EXTINF:-1 group-title="Movie-2" ,UP MOVIES
-http://27.254.149.109:8081/tumlive/upmovie.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",MOVIE 1(TH)
-http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647168530_movie_image.jpg&d=movie",TV CABLE 1
 http://203.154.243.31:8081/live/izaahd/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647176341_movie_image.jpg&d=movie",TV CABLE 2
@@ -168,8 +162,10 @@ http://203.154.243.31:8081/live/ping/index.m3u8
 http://203.154.243.31:8081/live/h-channel/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647151359_movie_image.jpg&d=movie",TV CABLE 5
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 group-title="Movie-2" ,TVB drama
-https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/IZAA-360x270.png",iZaa Channel
+http://203.154.243.31:8081/live/izaahd/index.m3u8
+#EXTINF:-1 group-title="Movie-2" tvg-logo="http://app.9koh.com/uploads/tv_image/universal-th.png",Universal(TH)
+https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" ,Universal
 https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_MW5H-HuBaW2dDaA7yzgrypdtoswIOXYrAkX_qz0fKuPcOkWs&usqp=CAU",Sky Cenima PremiereHD
@@ -298,17 +294,10 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_big.png",Nick Jr TH
 http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://cdn.animenewsnetwork.com/hotlink/thumbnails/max300x600/cms/news/112588/animax-logo.jpg",Animax
 http://203.154.243.31:8081/live/animax/index.m3u8
-#EXTINF:-1 group-title="CARTOON" ,CARTOON- cartoonito
+#EXTINF:-1 group-title="CARTOON" ,Cartoonito
 http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
-#EXTINF:-1 group-title="CARTOON",TOONEE
-http://103.120.113.90:1935/psilive2a/AsianMovie.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="CARTOON",JaTingJa
-http://103.120.113.90:1935/psilive3a/JaTingJa.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg", Tom & Jerry TV
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
 #EXTINF:-1 group-title="News" tvg-logo="https://seeklogo.com/images/C/CNN-logo-6DA92A5BFF-seeklogo.com.png",CNN LIVE
 https://tv4.chang55.com:446/live2/tv4ch27.stream/chunks.m3u8
@@ -388,10 +377,45 @@ https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.imgur.com/rXrSsiI.jpg",CGNTV Japan
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 
+#EXTINF:-1, group-title="China" tvg-logo="http://96.30.124.103/MVHmedia/uploads/channel/Channel_TVB_Jade.png", TVB Jade 無綫翡翠台
+https://edge2a.v2h-cdn.com/tvblive/smil:jade_abr.smil/playlist.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="http://sg.heytv.org/wp-content/uploads/2018/12/1-1P5132115050-L.jpg", MediaCorp8 新传媒8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png", ATV 亞洲電視
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20011QP3070-L.jpg", i-Cable Family Entertainment Channel | 有線綜合娛樂台 HD
+https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="http://www.tvyan.com/uploads/dianshi/satrcc.jpg", Star Chinese Channel 衛視中文台
+https://www.livedoomovies.com/02_SCC_HD_720p/chunklist.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="https://wiseknowcom.files.wordpress.com/2020/06/asia-culture-tours-satellite-tv.jpg", Asia Culture Tours Sattelite | 亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="https://nettv.live/uploads/allimg/18/1-1P3101222530-L.jpg", TVBS Entertainment Channel | TVBS歡樂台
+http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
+#EXTINF:-1, group-title="China" tvg-logo="https://www.macauscholar.com/app/uploads/sites/5/2017/06/photo-1.jpg", Studio Classroom | 空中英語教室
+http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
+#EXTINF:-1, group-title="China" tvg-logo="https://www.getsatellite.com/channels/cctv-entertainment.png", CCTV Entertainment
+https://edge2a.v2h-cdn.com/tvblive/smil:cctv_ent_abr.smil/chunk.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/68/CCTV_Opera_Channel_Logo.png", CCTV Opera
+https://edge2a.v2h-cdn.com/tvblive/smil:cctv_opera_abr.smil/chunk.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/gwelt.png", Great Wall Elite
+https://edge2a.v2h-cdn.com/tvblive/smil:great_wall_abr.smil/chunk.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/200px-Dragon_Television_%28China%29_logo.svg.png", Shanghai Dragon TV
+https://edge2a.v2h-cdn.com/tvblive/smil:dragon_tv_abr.smil/chunk.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="https://i.imgur.com/S1YWrNd.jpg", SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="http://96.30.124.103/MVHmedia/uploads/channel/Channel_Enews.png", TVB Entertainment News 娛樂新聞台
+https://edge2a.v2h-cdn.com/tvblive/smil:enew_abr.smil/playlist.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="http://www.zyz98.com/uploads/dianshi/tvb-news.jpg", TVB News 無綫新聞台
+https://edge2a.v2h-cdn.com/tvblive/smil:news_abr.smil/playlist.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="http://96.30.124.103/MVHmedia/uploads/channel/Channel_TVB_Finance_N_Information.png", TVB Finance & Information 無綫財經·資訊台
+https://edge2a.v2h-cdn.com/tvblive/smil:finance_abr.smil/playlist.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="https://images.mi.tv/channels/pe_cctv-4_m.png", CCTV-4
+https://www.livedoomovies.com/02_CCTV4_720p/chunklist.m3u8
+#EXTINF:-1, group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png", CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+
 #EXTINF:-1 group-title="Variety" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU",ลูกทุ่ง TVHD
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Variety" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCXqpUcqYEs9LzRpVXCfzeHHQy1oN1K2Ke3cBeH4M1ryOHawKs&usqp=CAU",พระเครื่อง อ.ไบร์
-https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://tvtolive.com/wp-content/uploads/Boonniyom-TV-tvtolive.com_.jpg",บุญนิยม ทีวี
@@ -427,14 +451,3 @@ http://dltv-live-edge.catcdn.cloud/playlist/dltv13.m3u8
 http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
 #EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png" group-title="School",มัธยมศึกษาปีที่ 6 
 http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
-
-
-
-
-
-
-
-
-
-
-
