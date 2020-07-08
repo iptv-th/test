@@ -8,7 +8,7 @@ http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
 http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
-http://203.154.243.31:8081/live/tv9/index.m3u8
+http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAI PBS
 http://160.119.77.50/iptv/hd-tpbs.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/14/c299963d-be47-4241-816e-9e1713ba3715.png",TNN16
