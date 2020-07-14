@@ -77,9 +77,12 @@ http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Natgeo Graphic TH 
 http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8 
-
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Natgeo People TH
+http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY EN
 http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery Channel TH
+https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-discovery.png",Discovery Channel TH
 https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",True Discovery Asia
@@ -93,6 +96,8 @@ http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w360864676.m3u8
+#EXTINF:-1 group-title="Movie-1" tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO PLUS
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",True Movie Hits
 http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/11/true-film-asia.jpg",True film asia
@@ -121,8 +126,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png",HBO Family EN
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",Fox Action Movie
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",Fox Action Movie EN-SUP
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",Fox Action Movie TH
+https://tv4.chang55.com:446/live2/tv4ch75.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/foxp-thai.png",FOX MOVIES PREMIUM
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/foxthai.png",Fox Thai
@@ -141,6 +148,8 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
 http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" ,Series Asia XXXXXXXXXXXXXXXXXXXXX
 http://203.154.243.31:8081/live/series/index.m3u8
+#EXTINF:-1 group-title="Movie-2",Thrill
+https://tv4.chang55.com:446/live2/tv4ch87.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647151359_movie_image.jpg&d=movie",TV CABLE 5
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://app.9koh.com/uploads/tv_image/universal-th.png",Universal(TH)
