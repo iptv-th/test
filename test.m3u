@@ -33,7 +33,7 @@ http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-workpoint.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
 http://160.119.77.50:80/iptv/sd-gmmchannel.stream/chunks.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/newtv.png",New18 No Siagnal
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/newtv.png",New18
 https://stream-05.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL544uEiC5AXwU-dBOMDZjOOss)/dm/3/x7kx5i7/s/live-3.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/ch8.png",CH8 SD
 http://160.119.77.50/iptv/hd-ch8.stream/playlist.m3u8
@@ -77,8 +77,7 @@ http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Natgeo Graphic TH 
 http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Natgeo People TH
-https://livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY EN
 http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-discovery.png",Discovery Channel TH
@@ -87,8 +86,6 @@ https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discovery Turbo EN
 http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-animalplanet.png",Animal Planet TH
-https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary"tvg-logo='https://teevee-hd.com/img/afc.png',True Asian Food Network
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",SARADEE99
@@ -96,14 +93,10 @@ http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w360864676.m3u8
-#EXTINF:-1 group-title="Movie-1" tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO PLUS
-https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",True Movie Hits
 http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/11/true-film-asia.jpg",True film asia
 http://27.254.149.109:8081/tumlive/FLA/playlist.m3u8
-#EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/truethaifilm.jpg",True THAIFILM(TH)
-https://tv4.chang55.com:446/live2/tv4ch86.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-filmasia.png",True Asian Series HD
 http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/ccm.jpg",Trur Celestial Classic Movies 
@@ -118,11 +111,7 @@ http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
 http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie-1" tvg-logo="https://www.doohdbox.com/assets/201707090903391006795571.jpg",Thrill
-http://203.154.243.31:8081/live/thrill/index.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://images.iptvhero.com/channel/hd-hbo.png",HBO EN
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO-EN HD
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://images.iptvhero.com/channel/hd-hbo.png",HBO TH
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://images.iptvhero.com/channel/hd-hbohits.png",HBO HITS
 https://tv4.chang55.com:446/live2/tv4ch42.stream/chunks.m3u8
@@ -150,23 +139,11 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/chunks.m3u8
 http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/Sky_series.jpg",Series+HD
 http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie-2" ,Series Asia 
+#EXTINF:-1 group-title="Movie-2" ,Series Asia XXXXXXXXXXXXXXXXXXXXX
 http://203.154.243.31:8081/live/series/index.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647168530_movie_image.jpg&d=movie",TV CABLE 1
-http://203.154.243.31:8081/live/izaahd/index.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647176341_movie_image.jpg&d=movie",TV CABLE 2
-https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647185711_movie_image.jpg&d=movie",TV CABLE 3
-http://203.154.243.31:8081/live/ping/index.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647198385_movie_image.jpg&d=movie",TV CABLE 4
-http://203.154.243.31:8081/live/h-channel/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647151359_movie_image.jpg&d=movie",TV CABLE 5
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/IZAA-360x270.png",iZaa Channel
-http://203.154.243.31:8081/live/izaahd/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://app.9koh.com/uploads/tv_image/universal-th.png",Universal(TH)
-https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movie-2" ,Universal
 https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_MW5H-HuBaW2dDaA7yzgrypdtoswIOXYrAkX_qz0fKuPcOkWs&usqp=CAU",Sky Cenima PremiereHD
 http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
@@ -175,10 +152,6 @@ http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
 http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp5.png",TRUE SPORT 5
-https://www.livedoomovies.com//02_sport5_480p//chunklist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp6.png",TRUE SPORT 6
-https://livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp7.png",TRUE SPORT 7
 http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport1.jpg",TRUE SPORT HD1
