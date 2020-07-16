@@ -34,13 +34,13 @@ http://160.119.77.50/iptv/hd-workpoint.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
 http://160.119.77.50:80/iptv/sd-gmmchannel.stream/chunks.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/newtv.png",New18
-https://stream-05.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL544uEiC5AXwU-dBOMDZjOOss)/dm/3/x7kx5i7/s/live-3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL549I7I7GYzSq-qSG6uohPB6E)/dm/3/x7kx5i7/s/live-3.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/ch8.png",CH8 SD
 http://160.119.77.50/iptv/hd-ch8.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV", ไทยรัฐสภา
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",News 1
 http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
 
 #EXTINF:-1 group-title="Variety" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True Xzyte
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
@@ -54,8 +54,10 @@ http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://p3.isanook.com/cl/0/up/2013/08/991.jpg",Channal V
 http://kodinew.dyndns.tv:9981/stream/channelid/1539799167?
-#EXTINF:-1 group-title="Variety" ,TVB Thai
-https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU",ลูกทุ่ง TVHD
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://tvtolive.com/wp-content/uploads/Boonniyom-TV-tvtolive.com_.jpg",บุญนิยม ทีวี
+http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://www.dlit.ac.th/pages/library/images/TruePlookpanya.jpg",True Pookpanya 
 http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8 
@@ -81,14 +83,8 @@ http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY EN
 http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery Channel TH
-https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/sd-discovery.png",Discovery Channel TH
-https://tv4.chang55.com:446/live2/tv4ch79.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",True Discovery Asia
 http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discovery Turbo EN
-http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary"tvg-logo='https://teevee-hd.com/img/afc.png',True Asian Food Network
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",SARADEE99
@@ -146,10 +142,6 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/chunks.m3u8
 http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/Sky_series.jpg",Series+HD
 http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie-2" ,Series Asia XXXXXXXXXXXXXXXXXXXXX
-http://203.154.243.31:8081/live/series/index.m3u8
-#EXTINF:-1 group-title="Movie-2",Thrill
-https://tv4.chang55.com:446/live2/tv4ch87.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647151359_movie_image.jpg&d=movie",TV CABLE 5
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://app.9koh.com/uploads/tv_image/universal-th.png",Universal(TH)
@@ -399,13 +391,6 @@ https://edge2a.v2h-cdn.com/tvblive/smil:finance_abr.smil/playlist.m3u8
 https://www.livedoomovies.com/02_CCTV4_720p/chunklist.m3u8
 #EXTINF:-1, group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png", CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:-1 group-title="Variety" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU",ลูกทุ่ง TVHD
-https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1 group-title="Variety" tvg-logo="https://tvtolive.com/wp-content/uploads/Boonniyom-TV-tvtolive.com_.jpg",บุญนิยม ทีวี
-http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
 
 #EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png" group-title="School",อนุบาลศึกษาปีที่  1
 http://dltv-live-edge.catcdn.cloud/playlist/dltv10.m3u8
