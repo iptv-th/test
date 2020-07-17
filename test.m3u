@@ -41,6 +41,13 @@ http://160.119.77.50/iptv/hd-ch8.stream/playlist.m3u8
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://thaich2.com/images/logoch2-nm.png", CH2
+http://stream.rs.co.th/ch2-hi/index.m3u8?d=web
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-channel-8-thailand-5394.jpg",Channel 8  
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Variety" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True Xzyte
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
@@ -79,12 +86,18 @@ http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Natgeo Graphic TH 
 http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeowild.png",Nat Geo Wild
+http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeopeople.png",Natgeo People TH
 http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/discovery.png",DISCOVERY EN
 http://160.119.77.50/iptv/uk-discovery.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",True Discovery Asia
 http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg",Discovery History
+http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discovery Turbo
+http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary"tvg-logo='https://teevee-hd.com/img/afc.png',True Asian Food Network
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",SARADEE99
@@ -153,6 +166,8 @@ http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
 http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp6.png",TRUE SPORT 6 
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp7.png",TRUE SPORT 7
 http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport1.jpg",TRUE SPORT HD1
