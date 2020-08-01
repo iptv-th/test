@@ -24,7 +24,7 @@ http://27.254.130.64/live01/ch8.m3u8?p=st
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH
 http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
-http://27.254.130.64/live01/chsd_PPTV_HD_2.m3u8?p=st
+http://203.150.107.30:8081/tested2iptv/core1/chunklist_w353411422.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN
 http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
@@ -210,7 +210,6 @@ http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/nba.png",True NBA
 http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Sport" tvg-logo="https://teevee-hd.com/img/skynetsport.png",SKYNET SPORTS HD
 http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://teevee-hd.com/img/skynetsport1.png",SKYNET SPORTS1
@@ -226,13 +225,7 @@ https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://teevee-hd.com/img/skynetsport6.png",SKYNET SPORTS6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS1 HD
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png ",beIN SPORTS2 HD
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 , bein1
-http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
-#EXTINF:-1 , bein2
-http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
+http://203.150.107.30:8081/tested2iptv/core2/chunklist_w353411422.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
 http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/de-skybundesliga.png",Sky Bundesliga
@@ -441,6 +434,5 @@ http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
 https://youtu.be/xnL98mU6KKc
 
 
-#EXTINF:-1 group-title="การศึกษา" ,Update-17-07-202@T@w@t
+#EXTINF:-1 group-title="การศึกษา" ,Update-31-07-202@T@w@t
 http://dltv-live-edge.catcdn.cloud
-
