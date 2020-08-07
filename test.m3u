@@ -99,6 +99,9 @@ http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doohdbox.com/assets/201707081756341945061266.jpg",PSI SARADEE99
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN  
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w360864676.m3u8
 #EXTINF:-1 group-title="Movie-1" tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO PLUS
@@ -134,9 +137,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",Fox Action Movie EN-SUP
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",Fox Action Movie TH
-https://tv4.chang55.com:446/live2/tv4ch75.stream/chunks.m3u8
+https://live.tubtoeball.net/tubtoeball_app/fox-action/playlist.m3u8 
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/foxp-thai.png",FOX MOVIES PREMIUM
-http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://teevee-hd.com/img/foxthai.png",Fox Thai
 http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://www.tvchinese.net/uploads/tv/foxcrime.jpg",Fox Crime 
@@ -153,12 +156,10 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
 http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586647151359_movie_image.jpg&d=movie",TV CABLE 5
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="http://app.9koh.com/uploads/tv_image/universal-th.png",Universal(TH)
-https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
-#EXTINF:-1 group-title="Movie-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_MW5H-HuBaW2dDaA7yzgrypdtoswIOXYrAkX_qz0fKuPcOkWs&usqp=CAU",Sky Cenima PremiereHD
-http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqGMyX-6uLQ26enEIx8GU9J69oKoVZRhoyl1speGwFz2auOppZ&usqp=CAU",Skyatlantic
 http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",BlueAnt Red Sub Thai
+http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
 http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
@@ -263,9 +264,9 @@ http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1 group-title="CARTOON" ,Disney junior
 http://103.47.132.164:80/PLTV/88888888/224/3221226011/4.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-disney.png",Disney Channel
-http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/9247aa93-56ff-4746-acd3-bdf52d597ed6.png",Disney XD(True)
-https://tv4.chang55.com:446/live2/tv4ch29.stream/chunks.m3u8
+http://160.119.77.50/iptv/hd-disneyxd.stream/playlist.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://icon2.cleanpng.com/20180404/ooe/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4535d337.1986375915229005492205.jpg",Cartoon Network
 http://27.254.149.109:8081/tumlive/Cartoonnetwork/chunks.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",Boomerang
@@ -429,17 +430,18 @@ http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
 #EXTINF:-1 group-title="YouTube" ,รวมเพลงเขียนไขและวานิช.
 https://youtu.be/xnL98mU6KKc
 
+#EXTINF:-1 group-title="Movie Hidef" tvg-logo="https://movie285.com/wp-content/uploads/2020/08/p618.jpg",latte the magic waterstone
+https://freeball96.com/D/M08364.mp4
+#EXTINF:-1 group-title="Movie Hidef" tvg-logo="https://www.doofree88.com/storage/images/2020/6/keXCxynRjtcedhRtFOYVjDArUQFoJKMqOxJBnZOe.jpg",Classic Again (2020) จดหมาย สายฝน ร่มวิเศษ
+http://movie.chang55.com/newmovie4/1Cwq0P05KP5Dg1A88jLOU1VK7xReGSPp-.mp4
+#EXTINF:-1 group-title="Movie Hidef" tvg-logo="https://www.doofree88.com/storage/images/2020/6/JLuMollIt51WY1Y7dRyjVuv2BiSpPnVeXvwr0q1c.jpg",365 DNI(2020) (20+) ซับไทย
+http://movie.chang55.com/newmovie4/1CnL3feYJDOFak9j5EkoPiolPtK623j8h.mp4
+#EXTINF:-1 group-title="Movie Hidef" tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//poster_thumb//uploads//jpg//a1124fd7ca765a854db7985743ec1b9a.jpg",The Old Guard (2020) ดิ โอลด์ การ์ด
+https://cache-movie.akaanime.com//hls//content//nas05//mvc//M//Inter//The-Old-Guard//The-Old-Guard-T.mp4//index.m3u8
+#EXTINF:-1 group-title="Movie Hidef" tvg-logo="https://i.pinimg.com/474x/d5/aa/28/d5aa285d771a0d9fb410ec69cc328f30.jpg",ขุนแผน ฟ้าฟื้น
+https://cdn.movietok.is/vod/disk4/khunpe.mp4
 
-#EXTINF:-1 group-title="การศึกษา" ,Update-17-07-202@T@w@t
+
+#EXTINF:-1 group-title="การศึกษา" ,Update-07-08-202@T@w@t
 http://dltv-live-edge.catcdn.cloud
-
-
-
-
-
-
-
-
-
-
 
