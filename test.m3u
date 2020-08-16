@@ -158,12 +158,12 @@ http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 group-title="Movie-2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqGMyX-6uLQ26enEIx8GU9J69oKoVZRhoyl1speGwFz2auOppZ&usqp=CAU",Skyatlantic
 http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",BlueAnt Red Sub Thai
+#EXTINF:-1 group-title="Movie-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",BlueAnt Red Sub Thai
 http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
 http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",TRUE SPORT 7
+#EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",TRUE SPORT 7
 http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport",True Sport5
 http://139.99.17.52:8081/liveorigin/sd-tsport5_480/playlist.m3u8
