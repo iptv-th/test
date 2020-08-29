@@ -66,6 +66,8 @@ https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
 #EXTINF:-1 group-title="Variety",KBS World
 http://139.99.17.52:8081/liveorigin/hd-kbsworld_720/playlist.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-065559.jpg",wakuwaku japan
+https://live.we-play.tv/entertainment/wakuwakujapan/chunks.m3u8?nimblesessionid=50110517&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIwIDEwOjUwOjI0IEFNJmhhc2hfdmFsdWU9NWlhaTRLQW1tQWxaclNvTk1oZGl3Zz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-26-091649.jpg",ID Station
 http://dootvthai-hd.com/cmd/api/true/idstation/playlist.m3u8
 
@@ -407,6 +409,8 @@ http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
 #EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png" group-title="School",มัธยมศึกษาปีที่ 6 
 http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
 
+#EXTINF:-1 group-title="การศึกษา" ,Update-07-08-202@T@w@t
+http://dltv-live-edge.catcdn.cloud
 #EXTINF:-1 group-title="MOVIE HI-Def" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-29-052757.jpg",MOVIE Hi-Def
 https://cdn-ktu-moive-streaming.box.com
 #EXTINF:-1 group-title="MOVIE HI-Def" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-010106.jpg",AVA เอวามาแล้วฆ่า
@@ -420,5 +424,53 @@ https://lb1.one3up.com/hls/6dd3b53f67597b036b7b20c47437e761/6dd3b53f67597b036b7b
 #EXTINF:-1 group-title="MOVIE HI-Def" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-18-062023.jpg",K.Secret Zoo เฟค Zoo สู้โว้ย!
 https://lb1.one3up.com/hls/c5a1de5cafb5365a93d05841198be6a0/c5a1de5cafb5365a93d05841198be6a0.m3u8
 
-#EXTINF:-1 group-title="การศึกษา" ,Update-07-08-202@T@w@t
-http://dltv-live-edge.catcdn.cloud
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.1(100 Hits)
+https://youtu.be/-2OHhqGSQuE
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.2(100 Hits)
+https://youtu.be/CEYRzXixQJ4
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.3(100 Hits)
+https://youtu.be/MphmUwC4Gxo
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.4(100 Hits)
+https://youtu.be/qfUaFqSIVTY
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.5(100 Hits)
+https://youtu.be/Sm-1QpISous
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.6(100 Hits)
+https://youtu.be/hu7xNi_xrmE
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.7(100 Hits)
+https://youtu.be/ulOQPi9WIJA
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.8(100 Hits)
+https://youtu.be/A4iDvQ0hkJU
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.9(100 Hits)
+https://youtu.be/Ta1yPcO_bZw
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.10(100 Hits)
+https://youtu.be/gnhoTpVXDpg
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 1
+https://youtu.be/O7u4dd0W0PY
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 2
+https://youtu.be/Xa3kdiH0EeU
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 3
+https://youtu.be/dMMBrrUV32o
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 4
+https://youtu.be/hzivWWafBec
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 5
+https://youtu.be/KXGPragaCQY
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 6
+https://youtu.be/LaJbrArs3hM
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 7
+https://youtu.be/UJD149wTujM
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 8
+https://youtu.be/Xg1Hqk39EO4
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 9
+https://youtu.be/FhA03kjwzZM
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 10
+https://youtu.be/-0sqy7TTzes
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.1(White Haus)
+https://youtu.be/Et9zdiEXEhQ
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.2(White Haus)
+https://youtu.be/NIST_bXZ8Ko
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.3(White Haus)
+https://youtu.be/yuGztOCMTH4
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.4(White Haus)
+https://youtu.be/V2M0SDPjOBM
+#EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.5(White Haus)
+https://youtu.be/5Ijuu_Q4t5E
