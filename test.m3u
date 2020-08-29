@@ -407,7 +407,7 @@ http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
 #EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png" group-title="School",มัธยมศึกษาปีที่ 6 
 http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
 
-#EXTINF:-1 group-title="MOVIE HI-Def" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-010106.jpg",MOVIE Hi-Def
+#EXTINF:-1 group-title="MOVIE HI-Def" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-29-052757.jpg",MOVIE Hi-Def
 https://cdn-ktu-moive-streaming.box.com
 #EXTINF:-1 group-title="MOVIE HI-Def" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-010106.jpg",AVA เอวามาแล้วฆ่า
 https://cdn-ktu-moive-streaming.box.com/shared/static/z68rkznk456gxtnavkb1tblmcwajk6e1.mkv
