@@ -213,7 +213,10 @@ http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-05-084919.jpg",Tsport
 http://139.99.17.52:8081/liveorigin/sd-tsports_480/playlist.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS1 HD
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",beIN SPORTS2 HD
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
 http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/de-skybundesliga.png",Sky Bundesliga
@@ -474,3 +477,13 @@ https://youtu.be/yuGztOCMTH4
 https://youtu.be/V2M0SDPjOBM
 #EXTINF:-1 group-title="YouTube Karaoke" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.5(White Haus)
 https://youtu.be/5Ijuu_Q4t5E
+
+
+
+
+
+
+
+
+
+
