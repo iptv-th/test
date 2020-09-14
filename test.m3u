@@ -1,87 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
-http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",TRUE SPORT 7
-http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport1.jpg",TRUE SPORT HD1
-http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport2.jpg",TRUE SPORT HD2
-http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport3.jpg",TRUE SPORT HD3
-http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport4.jpg",TRUE SPORT HD4
-http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True PREMIER HD1
-http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True PREMIER HD1 Spare
-http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",True PREMIER HD2
-http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",True PREMIER HD2 Spare
-http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",True PREMIER HD3
-http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:- group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",True PREMIER HD3 Spare
-http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",True PREMIER HD4
-http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball4.png",True PREMIER HD4 Spare
-http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",True PREMIER HD5
-http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",True PREMIER HD5 Spare
-http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",FOX SPORT HD1
-http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",FOX SPORT HD2
-http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",FOX SPORT HD3
-http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/golf.png",True GOLF
-http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tennis.png",True TENNIS HD
-http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/nba.png",True NBA
-http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-05-084919.jpg",Tsport
-http://139.99.17.52:8081/liveorigin/sd-tsports_480/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS1 HD
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",beIN SPORTS2 HD
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-football.png",Sky Sports Football
-http://160.119.77.50/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/de-skybundesliga.png",Sky Bundesliga
-http://160.119.77.50/iptv/de-skybundesliga.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-epl.png",Sky Sports EPL
-http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-arena.png",Sky Sports Arena
-http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-cricket.png",Sky Sports Cricket
-http://160.119.77.50/iptv/uk-skysports-cricket.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-f1.png",Sky Sports F1
-http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYtT7usokX0l3HD3SBW0qR7nLjFa1JPmsXhQI2K4-dw-xm5T5a&usqp=CAU",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591186017516_movie_image.png&d=movie",BT SPORTS 1
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591186050368_movie_image.png&d=movie",BT SPORTS 2
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591188751111_movie_image.jpg&d=movie",BT SPORTS 3
-http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591298321391_movie_image.png&d=movie",BT ESPN
-http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591297707150_movie_image.jpg&d=movie",BT EXTRA 1
-http://160.119.77.50/iptv/uk-btsportextra1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591297707150_movie_image.jpg&d=movie",BT EXTRA 2
-http://160.119.77.50/iptv/uk-btsportextra2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://images.ufoiptv.com/channels/uk-liverpool.jpg",LFC TV
-http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-chelseatv.png",Chealsea TV
-http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://images.ufoiptv.com/channels/uk-mutv.jpg",MU TV
-http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
-#EXTINF:-1 group-title="การศึกษา" ,Update-07-08-202@T@w@t
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png" group-title="School",อนุบาลศึกษาปีที่  1
+http://dltv-live-edge.catcdn.cloud/playlist/dltv10.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png" group-title="School",อนุบาลศึกษาปีที่  2
+http://dltv-live-edge.catcdn.cloud/playlist/dltv11.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png" group-title="School",อนุบาลศึกษาปีที่ 3 
+http://dltv-live-edge.catcdn.cloud/playlist/dltv12.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png" group-title="School",ประถมศึกษาปีที่ 1
+http://dltv-live-edge.catcdn.cloud/playlist/dltv01.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png" group-title="School",ประถมศึกษาปีที่ 2
+http://dltv-live-edge.catcdn.cloud/playlist/dltv02.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png" group-title="School",ประถมศึกษาปีที่ 3
+http://dltv-live-edge.catcdn.cloud/playlist/dltv03.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png" group-title="School",ประถมศึกษาปีที่ 4
+http://dltv-live-edge.catcdn.cloud/playlist/dltv04.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png" group-title="School",ประถมศึกษาปีที่ 5
+http://dltv-live-edge.catcdn.cloud/playlist/dltv05.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png" group-title="School",ประถมศึกษาปีที่ 6
+http://dltv-live-edge.catcdn.cloud/playlist/dltv06.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png" group-title="School",มัธยมศึกษาปีที่ 1
+http://dltv-live-edge.catcdn.cloud/playlist/dltv07.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png" group-title="School",มัธยมศึกษาปีที่ 2
+http://dltv-live-edge.catcdn.cloud/playlist/dltv08.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png" group-title="School",มัธยมศึกษาปีที่ 3
+http://dltv-live-edge.catcdn.cloud/playlist/dltv09.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png" group-title="School",มัธยมศึกษาปีที่ 4
+http://dltv-live-edge.catcdn.cloud/playlist/dltv13.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png" group-title="School",มัธยมศึกษาปีที่ 5
+http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png" group-title="School",มัธยมศึกษาปีที่ 6 
+http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
+#EXTINF:-1 group-title="การศึกษา" ,Update-14092020@T@w@t
 http://dltv-live-edge.catcdn.cloud
 
 
