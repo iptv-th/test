@@ -4,12 +4,6 @@ http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-thaithai.stream/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/363ce850-9276-412d-b997-d1b9e8b94a8c.png",True Very
 http://160.119.77.50/iptv/sd-very.stream/playlist.m3u8
-#EXTINF:-1 group-title="Variety" tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg",World Fashion TV
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="Variety" tvg-logo="https://teevee-hd.com/img/mtvlive.png",MTV LIVE-no
-http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
-#EXTINF:-1 group-title="Variety" tvg-logo="https://teevee-hd.com/img/mtvasia.png",MTV Asia-no
-http://160.119.77.50/iptv/sd-mtvasia.stream/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://p3.isanook.com/cl/0/up/2013/08/991.jpg",Channal V-no
 http://kodinew.dyndns.tv:9981/stream/channelid/1539799167?
 #EXTINF:-1 group-title="Variety",KBS World
@@ -22,6 +16,8 @@ http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b47000
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1, group-title="Variety" tvg-logo="http://image.free.in.th/v/2013/ig/200609055045.png", Model 
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg",World Fashion TV
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
 http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
