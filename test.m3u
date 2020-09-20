@@ -22,21 +22,21 @@ http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",TRUE SPORT 7
 http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport1.jpg",TRUE SPORT HD1
-http://160.119.77.50/iptv/hd-tsport1.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/truesport-HD/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport2.jpg",TRUE SPORT HD2
-http://160.119.77.50/iptv/hd-tsport2.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/truesport-HD2/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport3.jpg",TRUE SPORT HD3
-http://160.119.77.50/iptv/hd-tsport3.stream/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/truesport-HD3/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport4.jpg",TRUE SPORT HD4
 http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True PREMIER HD1
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True PREMIER HD1 Spare
-http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",True PREMIER HD2
 http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball2.png",True PREMIER HD2 Spare
-http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",True PREMIER HD3
 http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:- group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball3.png",True PREMIER HD3 Spare
@@ -93,10 +93,3 @@ http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-btsportextra1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://tvktu.com/lalalive/movie-tuiptv-moi/backend/web/index.php/api/file?f=1591297707150_movie_image.jpg&d=movie",BT EXTRA 2
 http://160.119.77.50/iptv/uk-btsportextra2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://images.ufoiptv.com/channels/uk-liverpool.jpg",LFC TV
-http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-chelseatv.png",Chealsea TV
-http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://images.ufoiptv.com/channels/uk-mutv.jpg",MU TV
-http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
