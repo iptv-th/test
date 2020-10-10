@@ -53,10 +53,7 @@ https://www.livedoomovies.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-chelseatv.png",Chealsea TV
 http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://total.live:80/tzadiki/0521503/947
-#EXTINF:-1,UK: SKY SPORTS ACTION (2)
-http://total.live:80/tzadiki/0521503/5041
+
 #EXTINF:-1 group-title="การศึกษา" ,Update-03-10-202@T@w@t
 http://dltv-live-edge.catcdn.cloud
 
