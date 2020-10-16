@@ -39,6 +39,12 @@ https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54_ALrDu1f_WnXXDdPa
 http://27.254.130.64/live01/ch15.m3u8?p=st
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",News 1
 http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
+http://27.254.130.64/live01/ch3.m3u8?p=st
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO PLUS
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Variety" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True Xzyte
 http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
@@ -46,7 +52,7 @@ http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/TRUEPLOOKPANYA/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-073347.jpg",REALITY CHANNEL HD
 http://dootvthai-hd.com/cmd/api/true/REALITYCHANNEL-HD/playlist.m3u8
-#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-073420.jpg",TRUE ID STATION HD
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-085329.jpg",TRUE ID STATION HD
 http://dootvthai-hd.com/cmd/api/true/IDSTATION/playlist.m3u8
 #EXTINF:-1 group-title="Variety",KBS World
 http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
