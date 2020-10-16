@@ -54,7 +54,7 @@ http://dootvthai-hd.com/cmd/api/true/TRUEPLOOKPANYA/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/REALITYCHANNEL-HD/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-085329.jpg",TRUE ID STATION HD
 http://dootvthai-hd.com/cmd/api/true/IDSTATION/playlist.m3u8
-#EXTINF:-1 group-title="Variety",KBS World
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-085534.jpg", KBS World
 http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
 #EXTINF:-1, group-title="Variety" tvg-logo="https://wiseknowcom.files.wordpress.com/2020/07/fashion-tv.png", FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
