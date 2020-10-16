@@ -46,7 +46,6 @@ https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/c
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Variety" tvg-logo="https://teevee-hd.com/img/truexzyte.png",True Xzyte
 http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-rama.png",Rama Channel 
@@ -63,6 +62,10 @@ http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b47000
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1, group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095511.jpg", Fashion Channel
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-085534.jpg", KBS World
+http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-065915.jpg",TRUE MUSIC HD
+http://dootvthai-hd.com/cmd/true/true-music-hd/playlist.m3u88
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/42adbeee-622d-4f7e-8999-f274859fd9d6.png",True Explore Wild
 http://dootvthai-hd.com/cmd/true/true-explore-wild/playlist.m3u8
@@ -74,6 +77,18 @@ http://dootvthai-hd.com/cmd/true/true-explore-life/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 TH
 http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Natgeo Graphic TH 
+https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery
+http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",True Discovery Asia
+https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-055547.jpg",True Asian Food
+http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN  
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doohdbox.com/assets/201707081756341945061266.jpg",PSI SARADEE99
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
@@ -141,7 +156,7 @@ https://sorchelsea6969.shortcm.li/Sport3/sor@chelsea.m3u8
 https://sorchelsea6969.shortcm.li/Sport4/sor@chelsea.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-093610.png",Sport TV2 HD
 https://sorchelsea6969.shortcm.li/Sport5/sor@chelsea.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-15-030930.png",Sport TV3 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-060443.png",Sport TV3 HD
 https://sorchelsea6969.shortcm.li/Sport6/sor@chelsea.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-15-030930.png",Sport 7
 https://sorchelsea6969.shortcm.li/Sport7/sor@chelsea.m3u8
@@ -158,16 +173,12 @@ http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1, group-title="CARTOON", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-022523.jpg",Disney XD
 http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-sparkjump.png",True Spark Jump
-https://moviektu.com/222/playlist.m3u8=qaXe7YlRZp1
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-sparkplay.png",True Spark Play
-https://moviektu.com/222/playlist.m3u8=P83vkq1M1Lp
+#EXTINF:-1, group-title="CARTOON", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-055838.png",Cartoon Network
+http://dootvthai-hd.com/cmd/api/true/cartoon-network-hd/playlist.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-022909.jpg",Boomerang
 http://27.254.130.64/live01/ch18.m3u8?p=st
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",Gang Cartoon
-http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
 
-#EXTINF:-1 group-title="การศึกษา" ,Update-15-10-202@T@w@t
+#EXTINF:-1 group-title="การศึกษา" ,Update-16-10-202@T@w@t
 http://dltv-live-edge.catcdn.cloud
