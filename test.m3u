@@ -12,7 +12,7 @@ http://27.254.130.64/live01/ch12.m3u8?p=st
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAI PBS
 http://27.254.130.64/live01/ch14.m3u8?p=st
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-102532.jpg",ALTV4 Thai PBS
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/14/c299963d-be47-4241-816e-9e1713ba3715.png",TNN16
 http://27.254.130.64/live01/ch5.m3u8?p=st
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
