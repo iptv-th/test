@@ -64,14 +64,10 @@ http://dootvthai-hd.com/cmd/true/true-music-hd/playlist.m3u8
 
 #EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095619.jpg", FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095247.jpg",FASHION MIDNIGHT
+#EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-113044.jpg",Fashion TV Midnight Secert
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095511.jpg", Fashion Channel
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-113124.png",A3 Bikini Network
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-113044.jpg",Fashion TV Midnight Secert
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-112940.png",Fashion TV International
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg",HD FASHION
