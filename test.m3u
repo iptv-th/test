@@ -125,12 +125,14 @@ http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",TRUE SPORT 7
 http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport1.jpg",TRUE SPORT HD1
+#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-040046.png",TRUE SPORT HD1
 http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport2.jpg",TRUE SPORT HD2
-http://dootvthai-hd.com/cmd/true/truesport-HD2/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport3.jpg",TRUE SPORT HD3
-http://dootvthai-hd.com/cmd/true/truesport-HD3/playlist.m3u8
+#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-040101.png",TRUE SPORT HD2
+http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-040116.png",TRUE SPORT HD3
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-035949.png",TRUE SPORT HD4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True PREMIER HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",True PREMIER HD1 Spare
