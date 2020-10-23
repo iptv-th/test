@@ -59,11 +59,11 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/42adbeee-622d-4f7e-8999-f274859fd9d6.png",True Explore Wild
-http://dootvthai-hd.com/cmd/true/true-explore-wild/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/88fdbeeb-ffbb-477f-aa10-299fde2a3707.png",True Explore Life
-http://dootvthai-hd.com/cmd/true/true-explore-sci/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/15448025-d8d6-4232-bb7c-8f05db423b3c.png",True Explore Science
-http://dootvthai-hd.com/cmd/true/true-explore-life/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125322.jpg",History TH
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 TH
