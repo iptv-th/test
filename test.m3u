@@ -147,6 +147,20 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png",Animal Planet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png",Discovery Channel
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",Discovery Asia
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",H2
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",History
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",สำรวจโลก 
+https://cdn6.goprimetime.info/feed/LC8/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo='https://il.mahidol.ac.th/upload/img/2020-10-19-104604.jpg',BreaKingNews
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
