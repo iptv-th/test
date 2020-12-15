@@ -49,13 +49,13 @@ https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1, group-title="CARTOON" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-15-030544.jpg, Disney Channel
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1, group-title="CARTOON", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-022523.jpg",Disney XD
-https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+http://203.150.107.30:8081/tested2iptv/core107/playlist.m3u8
 #EXTINF:-1, group-title="CARTOON", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-055838.png",Cartoon Network
 https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-022909.jpg",Boomerang
-http://27.254.130.64/live01/ch18.m3u8?p=st
+https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",Cartoon Club
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
 #EXTINF:-1 group-title="True sport" tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
 http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
