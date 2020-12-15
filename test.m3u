@@ -135,6 +135,38 @@ http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-chelseatv.png",Chealsea TV
 http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/42adbeee-622d-4f7e-8999-f274859fd9d6.png",True Explore Wild
+https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/88fdbeeb-ffbb-477f-aa10-299fde2a3707.png",True Explore Life
+https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/15448025-d8d6-4232-bb7c-8f05db423b3c.png",True Explore Science
+https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125322.jpg",History TH
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 TH
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.iptvhero.com/channel/hd-natgeo.png",Natgeo Graphic TH 
+https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",True Discovery Asia
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-055547.jpg",True Asian Food
+http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN  
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doohdbox.com/assets/201707081756341945061266.jpg",PSI SARADEE99
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png",Animal Planet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095619.jpg", FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-113044.jpg",Fashion TV Midnight Secert
