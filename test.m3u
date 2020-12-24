@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/ch3-hd.png",CH3
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062336.png",CH3
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062349.png",CH5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/ch7.png",CH7
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062437.png",CH7
 https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062657.png",NBT
 http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062733.png",MCOT HD
 https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAI PBS
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062819.png",THAI PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-102532.jpg",ALTV4 Thai PBS
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
