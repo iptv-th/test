@@ -150,7 +150,7 @@ https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034450.png",BT Sport3 HD
 https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034450.png",Japan Sport1
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-041102.png",Japan Sport1
 http://193.42.99.130:23455/3640/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034840.png",Japan Sport2
 http://193.42.99.130:23455/3650/playlist.m3u8
