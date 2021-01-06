@@ -202,3 +202,12 @@ https://www.fwiptv.cc/player_demo.php?channel=89782|Referer=https://www.fwiptv.c
 #EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3785185_ico.png?ts=1605958302",FW SOV
 https://www.fwiptv.cc/player_demo.php?channel=89781|Referer=https://www.fwiptv.cc/
 
+#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054141.jpeg",Starz Encore Westerns
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/685187.m3u8
+#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054159.jpeg",Starz Encore Classic
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/677210.m3u8
+#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054214.jpeg",Starz Cinema
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/4898.m3u8
+#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054229.jpg",Starz Encore
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/685180.m3u8
+
