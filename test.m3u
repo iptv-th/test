@@ -153,14 +153,6 @@ https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034450.png",BT Sport3 HD
 https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-041102.png",Japan Sport1
-http://193.42.99.130:23455/3640/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034840.png",Japan Sport2
-http://193.42.99.130:23455/3650/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034856.png",Japan Sport3
-http://193.42.99.130:23455/3660/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034912.png",Japan Sport4
-http://193.42.99.130:23455/3670/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035247.png",Sky sport EPL HD 
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035340.png",Sky premiere HD   
@@ -183,6 +175,38 @@ http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-040140.png",Sky Sport Racing HD
 http://160.119.77.116:8081/iptv/uk-attheraces.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112356.png",S-Variety1
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678020.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112409.png",S-Variety2
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678021.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112422.png",S- Variety3
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678022.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112435.png",S-Variety4
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678023.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112459.png",S- Football
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678024.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112512.png",S- Motorsport
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678025.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112540.png",S-Rugby
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678026.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112606.png",S-Tennis
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678027.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112619.png",S-Golf
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678028.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112637.png",S-Premier League
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678029.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112653.png",S-PSL
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678030.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-10-112330.png",S-La Liga
+http://mypanel.tv/live/jpa61hyaym/mhtit3xpsa/678031.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-041102.png",Japan Sport1
+http://193.42.99.130:23455/3640/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034840.png",Japan Sport2
+http://193.42.99.130:23455/3650/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034856.png",Japan Sport3
+http://193.42.99.130:23455/3660/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034912.png",Japan Sport4
+http://193.42.99.130:23455/3670/playlist.m3u8
 
 #EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095619.jpg", FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
