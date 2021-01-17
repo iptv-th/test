@@ -124,23 +124,23 @@ http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-060724.png",True PREMIER HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-060724.png",True PREMIER HD1 Spare
-http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl1_480p/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061205.png",True PREMIER HD2
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061205.png",True PREMIER HD2 Spare
-http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl2_480p/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061018.png",True PREMIER HD3
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:- group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061018.png",True PREMIER HD3 Spare
-http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl3_480p/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061407.png",True PREMIER HD4
 http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061407.png",True PREMIER HD4 Spare
-http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl4_480p/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061456.png",True PREMIER HD5
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061456.png",True PREMIER HD5 Spare
-http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl5_480p/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",FOX SPORT HD1
 http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",FOX SPORT HD2
