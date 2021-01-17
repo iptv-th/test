@@ -214,6 +214,62 @@ http://160.119.77.116:8081/iptv/uk-skynews.stream/playlist.m3u8
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110418.png",ALJAZEERA
 http://160.119.77.116:8081/iptv/uk-aljazeera.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110544.png",bloomberg
+http://160.119.77.116:8081/iptv/sd-bloomberg.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110623.png",NHK World
+http://160.119.77.116:8081/iptv/sd-nhkworld.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110737.png",FOX NEWS
+http://160.119.77.117/iptv/uk-foxnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110819.png",fox sport news
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110902.png",bbc news
+http://160.119.77.116:8081/iptv/uk-bbcnewshd.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110944.png",bbc world news
+http://160.119.77.116:8081/iptv/uk-bbcworldnews.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-111059.png",bbc one
+http://160.119.77.116:8081/iptv/uk-bbc1hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-111142.png",bbc two
+http://160.119.77.116:8081/iptv/uk-bbc2hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-111212.png",bbc three
+http://160.119.77.116:8081/iptv/uk-bbc3hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-111244.png",bbc four
+http://160.119.77.116:8081/iptv/uk-bbc4hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-111339.png",sky sport news
+http://160.119.77.116:8081/iptv/uk-skysports-news.stream/chunks.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",phoenix infonews
+http://160.119.77.116:8081/iptv/sd-phoenixinfonews.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",Alibi channel
+http://160.119.77.116:8081/iptv/uk-alibi.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",Sky1
+http://160.119.77.116:8081/iptv/uk-sky1.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",CNBC
+http://160.119.77.116:8081/iptv/sd-cnbc.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",FRANCE 24
+http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",DW
+http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",TV3 (ie)
+http://160.119.77.116:8081/iptv/ie-tv3.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",RTE ONE (ie)
+http://160.119.77.116:8081/iptv/ie-rte1.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",RTE 2 (ie)
+http://160.119.77.116:8081/iptv/ie-rte2.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",arirang korea
+http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",TVBS 新聞台(tw)
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",原住民電視(tw)
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",NHK総合(jp)
+http://203.162.235.41:16903
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",tv asahi(jp)
+http://203.162.235.41:16906
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",abc news24(au)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",Stadium Network(us)
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 
 #EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3781650_ico.png?ts=1605958287",FW MOV
 https://www.fwiptv.cc/player_demo.php?channel=89782|Referer=https://www.fwiptv.cc/
