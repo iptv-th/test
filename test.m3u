@@ -202,6 +202,19 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-063403.png",Jasmin Channel
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-105933.png",CNN
+http://160.119.77.116:8081/iptv/hd-cnn.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110026.png",CNN
+http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110132.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110258.png",sky new
+http://160.119.77.116:8081/iptv/uk-skynews.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110340.png",sky new arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110418.png",ALJAZEERA
+http://160.119.77.116:8081/iptv/uk-aljazeera.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3781650_ico.png?ts=1605958287",FW MOV
 https://www.fwiptv.cc/player_demo.php?channel=89782|Referer=https://www.fwiptv.cc/
 #EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3785185_ico.png?ts=1605958302",FW SOV
