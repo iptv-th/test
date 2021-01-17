@@ -92,17 +92,17 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
 
-#EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095619.jpg", FASHION TV
+#EXTINF:-1, group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095619.jpg", FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-113044.jpg",Fashion TV Midnight Secert
+#EXTINF:-1, group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-113044.jpg",Fashion TV Midnight Secert
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095511.jpg", Fashion Channel
+#EXTINF:-1, group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095511.jpg", Fashion Channel
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-112940.png",Fashion TV International
+#EXTINF:-1 group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-112940.png",Fashion TV International
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg",HD FASHION
+#EXTINF:-1 group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-063403.png",Jasmin Channel
+#EXTINF:-1 group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-063403.png",Jasmin Channel
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061709.png",TRUE SPORT 2
@@ -189,18 +189,8 @@ http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-040140.png",Sky Sport Racing HD
 http://160.119.77.116:8081/iptv/uk-attheraces.stream/playlist.m3u8
 
-#EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095619.jpg", FASHION TV
-http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-113044.jpg",Fashion TV Midnight Secert
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1, group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095511.jpg", Fashion Channel
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-112940.png",Fashion TV International
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg",HD FASHION
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 group-title="Fashion TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-063403.png",Jasmin Channel
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-105933.png",CNN
 http://160.119.77.116:8081/iptv/hd-cnn.stream/playlist.m3u8
@@ -214,7 +204,7 @@ http://160.119.77.116:8081/iptv/uk-skynews.stream/playlist.m3u8
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110418.png",ALJAZEERA
 http://160.119.77.116:8081/iptv/uk-aljazeera.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110544.png",bloomberg
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113604.png",bloomberg
 http://160.119.77.116:8081/iptv/sd-bloomberg.stream/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110623.png",NHK World
 http://160.119.77.116:8081/iptv/sd-nhkworld.stream/playlist.m3u8
@@ -236,40 +226,77 @@ http://160.119.77.116:8081/iptv/uk-bbc3hd.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-bbc4hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-111339.png",sky sport news
 http://160.119.77.116:8081/iptv/uk-skysports-news.stream/chunks.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",phoenix infonews
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112205.png",phoenix infonews
 http://160.119.77.116:8081/iptv/sd-phoenixinfonews.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",Alibi channel
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112242.png",Alibi channel
 http://160.119.77.116:8081/iptv/uk-alibi.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",Sky1
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112319.png",Sky1
 http://160.119.77.116:8081/iptv/uk-sky1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",CNBC
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112400.png",CNBC
 http://160.119.77.116:8081/iptv/sd-cnbc.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",FRANCE 24
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112434.png",FRANCE 24
 http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",DW
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112513.png",DW
 http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",TV3 (ie)
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112614.png",TV3 
 http://160.119.77.116:8081/iptv/ie-tv3.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",RTE ONE (ie)
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112708.png",RTE ONE 
 http://160.119.77.116:8081/iptv/ie-rte1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",RTE 2 (ie)
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112749.png",RTE 2
 http://160.119.77.116:8081/iptv/ie-rte2.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",arirang korea
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112843.png",arirang korea
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",TVBS 新聞台(tw)
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113009.png",TVBS 新聞台(tw)
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",原住民電視(tw)
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113137.png",原住民電視(tw)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",NHK総合(jp)
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113227.png",NHK総合(jp)
 http://203.162.235.41:16903
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",tv asahi(jp)
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113259.png",tv asahi(jp)
 http://203.162.235.41:16906
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",Australia Channel
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113332.png",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",abc news24(au)
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113405.png",abc news24(au)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="xxx",Stadium Network(us)
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113447.png",Stadium Network(us)
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://i.imgur.com/SQISXoD.jpg",NHK World Japan HD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://i.imgur.com/SQISXoD.jpg",NHK World Japan SD
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK World Premium
+http://203.162.235.41:16901
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-102023.jpg" ,BS Asahi
+http://203.162.235.41:16914
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-102226.png",BS Japan
+http://203.162.235.41:16915
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://i.imgur.com/fuwPytF.jpg",JAPAN",Fuji TV 
+http://203.162.235.41:16904
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-102350.jpg",Nippon TV 
+http://203.162.235.41:16905
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://i.imgur.com/9VXxnlo.png",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif",ジャパネットチャンネルDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://i.imgur.com/rXrSsiI.jpg",CGNTV 日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://i.imgur.com/8AM9fC8.jpg",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-language="Japanese" tvg-logo="https://i.imgur.com/9u9TaMA.png",日本QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-103800.png",Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-103800.png",Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-102438.jpg",NTV News24 
+https://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JP;US" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-103904.png",NJPW World(การ์ตูน)
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-104316.png",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3781650_ico.png?ts=1605958287",FW MOV
 https://www.fwiptv.cc/player_demo.php?channel=89782|Referer=https://www.fwiptv.cc/
@@ -284,4 +311,3 @@ http://mytv.fun/live/vuiu07hk1/ipfhp7klk/677210.m3u8
 http://mytv.fun/live/vuiu07hk1/ipfhp7klk/4898.m3u8
 #EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054229.jpg",Starz Encore
 http://mytv.fun/live/vuiu07hk1/ipfhp7klk/685180.m3u8
-
