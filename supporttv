@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-085534.jpg", KBS World
-http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103533.png",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103435.png",LFC TV
+http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103354.png",Chealsea TV
+http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103315.png",Man-U TV
+http://160.119.77.116:8081/iptv/uk-mutv.stream/playlist.m3u8
 
 
 
