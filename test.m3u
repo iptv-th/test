@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062336.png",CH3
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062349.png",CH5
@@ -44,6 +43,8 @@ http://news1.live14.com/stream/news1_hi.m3u8
 https://www.we-play.tv/watching/tv/waku-waku-japan
 #EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-043137.png",X-Zyte
 https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-104826.png",tvN
+http://160.119.77.116:8081/iptv/hd-tvn.stream/playlist.m3u8
 
 #EXTINF:-1, group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065442.png",Spark Jump
 https://doofootball.livestream-cdn.com/iptv/sd-sparkjump.stream/playlist.m3u8
@@ -91,6 +92,56 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.doohdbox.com/assets/201707081756341945061266.jpg",PSI SARADEE99
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gaymBHehnuw13Z-o.png",True Thai Film
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gb71OCwDTrKXHC-o.png",True Asian Series HD
+http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gp0s4STXycwqX9-o.png",True Series
+http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-110855.png",Fox Thai
+http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111507.png",FOX​ MOVIE​
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111007.png",Fox Action Movie
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-110912.png", FOX Life
+http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114731.png",Fox Family
+https://www.we-play.tv/watching/tv/fox-family-movies
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-112903.png",HBO 
+https://we-play.tv/watching/tv/hbo-hd|Referer=https://we-play.tv/
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114158.png",RED
+https://www.we-play.tv/watching/tv/fox-family-movies|Referer=https://we-play.tv/
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114304.png",AXN HD
+https://www.we-play.tv/watching/tv/axn-hd
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114510.png",BLUE ANT ENTERTAINMENT
+https://www.we-play.tv/watching/tv/blueant-entertainment|Referer=https://www.we-play.tv/
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114449.png",BLUE ANT EXTREME
+https://www.we-play.tv/watching/tv/blueant-extreme|Referer=https://www.we-play.tv/
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114602.png",thrill
+https://www.fwiptv.cc/player_demo.php?channel=718|Referer=https://www.fwiptv.cc/
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-114644.png",Paramount Channel
+https://www.we-play.tv/watching/tv/paramount-channel
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111051.png", Star Chinese Movies
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/ccm-1.png",Celestial Classic Movies
+http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
+https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8  
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-115234.png",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054141.jpeg",Starz Encore Westerns
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/685187.m3u8
+#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054159.jpeg",Starz Encore Classic
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/677210.m3u8
+#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054214.jpeg",Starz Cinema
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/4898.m3u8
+#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054229.jpg",Starz Encore
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/685180.m3u8
+
 
 #EXTINF:-1, group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095619.jpg", FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -122,25 +173,25 @@ http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-035949.png",TRUE SPORT HD4
 http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-060724.png",True PREMIER HD1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-060724.png",True PREMIER HD1 Spare
-https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl1_480p/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061205.png",True PREMIER HD2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061205.png",True PREMIER HD2 Spare
-https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl2_480p/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061018.png",True PREMIER HD3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:- group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061018.png",True PREMIER HD3 Spare
-https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl3_480p/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061407.png",True PREMIER HD4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061407.png",True PREMIER HD4 Spare
-https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl4_480p/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061456.png",True PREMIER HD5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061456.png",True PREMIER HD5 Spare
-https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/trueepl5_480p/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",FOX SPORT HD1
 http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="True sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",FOX SPORT HD2
@@ -150,22 +201,36 @@ http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-091726.png",AIS Bein1 
 https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-091726.png",AIS Bein1 Spare
+http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8  
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-092232.png",Ais Bein2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-092232.png",Ais Bein2 Spare
+http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-070929.jpg",Astro SUPERSPORT 1
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-070929.jpg",Astro SUPERSPORT 1 Spare
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071045.jpg",Astro SUPERSPORT 2
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071045.jpg",Astro SUPERSPORT 2
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071110.png",Astro SUPERSPORT 3
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071125.jpg",Astro SUPERSPORT 4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034226.png",BT Sport1 HD
 https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034226.png",BT Sport1 HD Spare
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034401.png",BT Sport2 HD
 https://doofootball.livestream-cdn.com/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034401.png",BT Sport2 HD Spare
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034450.png",BT Sport3 HD
 https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034450.png",BT Sport3 HD Spare
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035247.png",Sky sport EPL HD 
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035340.png",Sky premiere HD   
@@ -189,8 +254,14 @@ http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-040140.png",Sky Sport Racing HD
 http://160.119.77.116:8081/iptv/uk-attheraces.stream/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103533.png",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103435.png",LFC TV
+http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103315.png",Man-U TV
+http://160.119.77.116:8081/iptv/uk-mutv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103354.png",Chealsea TV
+http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-105933.png",CNN
 http://160.119.77.116:8081/iptv/hd-cnn.stream/playlist.m3u8
@@ -302,12 +373,3 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
 https://www.fwiptv.cc/player_demo.php?channel=89782|Referer=https://www.fwiptv.cc/
 #EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3785185_ico.png?ts=1605958302",FW SOV
 https://www.fwiptv.cc/player_demo.php?channel=89781|Referer=https://www.fwiptv.cc/
-
-#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054141.jpeg",Starz Encore Westerns
-http://mytv.fun/live/vuiu07hk1/ipfhp7klk/685187.m3u8
-#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054159.jpeg",Starz Encore Classic
-http://mytv.fun/live/vuiu07hk1/ipfhp7klk/677210.m3u8
-#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054214.jpeg",Starz Cinema
-http://mytv.fun/live/vuiu07hk1/ipfhp7klk/4898.m3u8
-#EXTINF:-1 group-title="Movie Classic" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-054229.jpg",Starz Encore
-http://mytv.fun/live/vuiu07hk1/ipfhp7klk/685180.m3u8
