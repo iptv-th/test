@@ -1,30 +1,28 @@
 #EXTM3U
 #EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
-https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
-http://27.254.130.61/live01/ch19.m3u8?p=st
-#EXTINF:-1 group-title="Movie" tvg-logo="https://f.ptcdn.info/204/072/000/qmo17g5mzW350RxWq4o-o.png",True Film HD
-http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gaymBHehnuw13Z-o.png",True Thai Film
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gb71OCwDTrKXHC-o.png",True Asian Series HD
 http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gp0s4STXycwqX9-o.png",240. True Series
+#EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gp0s4STXycwqX9-o.png",True Series
 http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/ccm-1.png",Celestial Classic Movies
 http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
 https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8  
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
-https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
-https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-110855.png",Fox Thai
+http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111149.png",FOX​ MOVIE​
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111007.png",Fox Action Movie
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-110912.png", FOX Life
+http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111051.png", Star Chinese Movies
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 
 
 
