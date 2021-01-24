@@ -1,10 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
+#EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",HBO 
 https://we-play.tv/watching/tv/hbo-hd|Referer=https://we-play.tv/
-#EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",red
+#EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",RED
 https://www.we-play.tv/watching/tv/fox-family-movies|Referer=https://we-play.tv/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN HD
 https://www.we-play.tv/watching/tv/axn-hd
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F886f43a6-7655-4bdc-a4c2-4824667a980f.png&w=320&h=240",BLUE ANT ENTERTAINMENT
+https://www.we-play.tv/watching/tv/blueant-entertainment|Referer=https://www.we-play.tv/
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ff2e16412-98be-40a4-8690-74fd2ba059fc.png&w=320&h=240",BLUE ANT EXTREME
+https://www.we-play.tv/watching/tv/blueant-extreme|Referer=https://www.we-play.tv/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLswJ26Sr_ar4aPj073ysrK7dpqaVaewGQbw&usqp=CAU",thrill
+https://www.fwiptv.cc/player_demo.php?channel=718|Referer=https://www.fwiptv.cc/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/400px-Paramount_Channel.svg.png",Paramount Channel
+https://www.we-play.tv/watching/tv/paramount-channel
+#EXTINF:-1 tvg-logo="https://www.freetv-thai.com/wp-content/uploads/2018/03/images-2.png",Fox Family
+https://www.we-play.tv/watching/tv/fox-family-movies
 
 
 
