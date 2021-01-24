@@ -15,7 +15,7 @@ https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-110855.png",Fox Thai
 http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111149.png",FOX​ MOVIE​
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111507.png",FOX MOVIE
 http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-111007.png",Fox Action Movie
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
