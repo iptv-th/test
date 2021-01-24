@@ -1,25 +1,6 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-060724.png",True PREMIER HD1
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-060724.png",True PREMIER HD1 Spare
-http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061205.png",True PREMIER HD2
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061205.png",True PREMIER HD2 Spare
-http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061018.png",True PREMIER HD3
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:- group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061018.png",True PREMIER HD3 Spare
-http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061407.png",True PREMIER HD4
-http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061407.png",True PREMIER HD4 Spare
-http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061456.png",True PREMIER HD5
-http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-#EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061456.png",True PREMIER HD5 Spare
-http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-085534.jpg", KBS World
+http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
 
 
 
