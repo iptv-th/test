@@ -61,6 +61,10 @@ https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_720p/playlist.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-070547.png",Sanook CARTOON
 https://cdn6.goprimetime.info/feed/LC53/index.m3u8
+#EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-31-024409.png",Baby TV
+https://www.we-play.tv/watching/tv/babytv
+#EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-31-024514.png",Aniplus TV
+https://www.we-play.tv/watching/tv/aniplus
 
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-072304.png",สำรวจโลก
 https://cdn6.goprimetime.info/feed/LC8/index.m3u8
