@@ -52,7 +52,7 @@ https://doofootball.livestream-cdn.com/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065424.png",Spark Play
 https://doofootball.livestream-cdn.com/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065202.png",Disney Channel
-https://www.we-play.tv/watching/tv/disney-xd
+https://www.we-play.tv/watching/tv/disney-channel
 #EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065600.png",Cartoon Network
 https://www.we-play.tv/watching/tv/cartoon-network
 #EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065641.png",Boomerang
@@ -81,7 +81,7 @@ https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-071130.png",Natgeo Graphic TH 
 https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8
 #EXTINF:-1 group-title="สาระคดี"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-071335.png",Discovery
-https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+https://www.we-play.tv/watching/tv/discovery-channel
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-075732.png",Discovery Asia
 https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-071550.png",BBC EARTH
