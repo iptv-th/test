@@ -64,7 +64,7 @@ https://doofootball.livestream-cdn.com/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065424.png",Spark Play
 https://doofootball.livestream-cdn.com/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065202.png",Disney Channel
-https://www.we-play.tv/watching/tv/disney-channel
+http://160.119.77.117/iptv/sd-disney.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-072304.png",สำรวจโลก
 https://cdn6.goprimetime.info/feed/LC8/index.m3u8
@@ -186,13 +186,13 @@ https://www.we-play.tv/watching/tv/fox-sports-2
 #EXTINF:-1 group-title="True sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",FOX SPORT HD3
 https://www.we-play.tv/watching/tv/fox-sports-3
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061709.png",TRUE SPORT 2
-http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
+http://160.119.77.117/iptv/sd-tsport2.stream/chunks.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png",TRUE SPORT 5
-http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
+http://160.119.77.117/iptv/sd-tsport5.stream/chunks.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png",TRUE SPORT 6
-https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+http://160.119.77.117/iptv/sd-tsport6.stream/chunks.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",TRUE SPORT 7
-http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
+http://160.119.77.117/iptv/sd-tsport7.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-091726.png",AIS Bein1 
 https://www.we-play.tv/watching/tv/bein-sports-1
