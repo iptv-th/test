@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gaymBHehnuw13Z-o.png",Diney
-https://www.we-play.tv/watching/tv/disney-xd
-
+#EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gaymBHehnuw13Z-o.png", movie 
+https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Zack_Snyders_Justice_League_2021/Zack_Snyders_Justice_League_2021_ST.mp4/index.m3u8
 
 
 
