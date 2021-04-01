@@ -1,40 +1,40 @@
 #EXTM3U
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062336.png",CH3
-http://160.119.77.117/iptv/hd-ch3.stream/chunks.m3u8
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062349.png",CH5
-http://160.119.77.117/iptv/hd-ch5.stream/chunks.m3u8
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062437.png",CH7
-http://160.119.77.117/iptv/hd-ch7.stream/chunks.m3u8
+https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062657.png",NBT
-http://160.119.77.117/iptv/sd-nbt.stream/chunks.m3u8
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062733.png",MCOT HD
-http://160.119.77.117/iptv/hd-mcot.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/playlist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-062819.png",THAI PBS
-http://160.119.77.117/iptv/hd-tpbs.stream/chunks.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-102532.jpg",ALTV4 Thai PBS
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031450.jpg",TNN16
-http://160.119.77.117/iptv/sd-tnn24.stream/chunks.m3u8
+https://moviektu.com/cdn.livetv.streamingtv/fghtrui/ball24.php?channel=tnn
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-030959.jpg",TRUE4U
-http://160.119.77.117/iptv/sd-24u.stream/chunks.m3u8
+http://183.182.100.184/live/true4u/chunklist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031020.jpg",NATION CHANNEL
-http://160.119.77.117/iptv/sd-nation.stream/chunks.m3u8
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031320.jpg",THAIRATH
-http://160.119.77.117/iptv/hd-thairath.stream/chunks.m3u8
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031059.jpg",PPTV HD
-http://160.119.77.117/digitaltv/hd-pptv.stream/chunks.m3u8
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031115.jpg",AMARIN
-http://160.119.77.117/iptv/hd-amarin.stream/chunks.m3u8
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031132.jpg",ONE HD
-http://160.119.77.117/iptv/hd-gmmone.stream/chunks.m3u8
+http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031425.png",Workpoint
-http://160.119.77.117/iptv/hd-workpoint.stream/chunks.m3u8
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031205.png",GMM25
-http://160.119.77.117/iptv/hd-gmmone.stream/chunks.m3u8
+http://183.182.100.184/live/mcothd/playlist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-03-031219.png",New18
-http://160.119.77.117/iptv/sd-new.stream/chunks.m3u8
+https://edge6a.v2h-cdn.com/m2i1/NEW.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095131.png",Channel 8  
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095035.jpg",News 1
