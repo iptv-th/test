@@ -146,12 +146,22 @@ https://mediasv.online/tvchannel_x1/true-filmhd/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hd-asianseries/playlist.m3u8
 #EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gp0s4STXycwqX9-o.png",True Series
 http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8
-#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-08-092045.jpg",SANOOK MOVIES
-http://61.19.242.134:80/feed/LC53/index.m3u8
-#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104010.jpg",SAMURAI
-http://61.19.242.134:80/feed/LC2/index.m3u8
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",SUN MOVIES
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8
 #EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",SUN MOVIES
 http://61.19.242.134:80/feed/LC1/index.m3u8
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104010.jpg",SAMURAI
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104010.jpg",SAMURAI
+http://61.19.242.134:80/feed/LC2/index.m3u8
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103341.jpg",BOX​FILM
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103341.jpg",BOX​FILM
+http://61.19.242.134:80/feed/LC52/index.m3u8
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-08-092045.jpg",SANOOK MOVIES
+https://cdn6.goprimetime.info/feed//LC53/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ดูหนัง" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-08-092045.jpg",SANOOK MOVIES
+http://61.19.242.134:80/feed/LC53/index.m3u8
 
 #EXTINF:-1, group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095619.jpg", FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
