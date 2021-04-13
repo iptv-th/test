@@ -136,15 +136,15 @@ https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB2
-http://160.119.77.117/iptv/sd-tvb.stream/chunks.m3u8
+http://160.119.77.116:8081/iptv/sd-tvb.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-115234.png",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gaymBHehnuw13Z-o.png",True Thai Film
-http://160.119.77.117/iptv/hd-tfilm.stream/chunks.m3u8
+https://mediasv.online/tvchannel_x1/true-filmhd/playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gb71OCwDTrKXHC-o.png",True Asian Series HD
-http://160.119.77.117/iptv/hd-asian.stream/chunks.m3u8
+https://mediasv.online/tvchannel_x1/hd-asianseries/playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gp0s4STXycwqX9-o.png",True Series
-http://160.119.77.117/iptv/sd-series.stream/chunks.m3u8
+http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8
 
 #EXTINF:-1, group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095619.jpg", FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
