@@ -132,10 +132,12 @@ http://160.119.77.117/iptv/hd-starchinese.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/ccm-1.png",Celestial Classic Movies
 http://160.119.77.117/iptv/sd-celestial/chunks.m3u8
 
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="ดูหนัง" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
 https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8  
 #EXTINF:-1 group-title="ดูหนัง" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
-https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
 #EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-115234.png",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062407.jpg",Zee หนัง
@@ -146,8 +148,7 @@ https://mediasv.online/tvchannel_x1/true-filmhd/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hd-asianseries/playlist.m3u8
 #EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gp0s4STXycwqX9-o.png",True Series
 http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8
-#EXTINF:-1 group-title="ดูหนัง"tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+
 
 #EXTINF:-1, group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-095619.jpg", FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
