@@ -132,6 +132,8 @@ http://160.119.77.117/iptv/hd-starchinese.stream/chunks.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/ccm-1.png",Celestial Classic Movies
 http://160.119.77.117/iptv/sd-celestial/chunks.m3u8
 
+#EXTINF:-1 group-title="ดูหนัง"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-24-053811.jpg",Mono29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ดูหนัง"tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="ดูหนัง" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
