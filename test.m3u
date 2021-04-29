@@ -330,11 +330,11 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://i.imgur.com/SQISXoD.jpg",NHK World Japan HD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://i.imgur.com/SQISXoD.jpg",NHK World Japan SD
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK World Premium
-http://203.162.235.41:16901
+http://203.162.235.41:16910
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-102023.jpg" ,BS Asahi
 http://203.162.235.41:16914
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-102226.png",BS Japan
