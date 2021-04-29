@@ -315,10 +315,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113137.png",?????(tw)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113227.png",NHK??(jp)
-http://203.162.235.41:16903
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113259.png",tv asahi(jp)
-http://203.162.235.41:16906
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113332.png",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113405.png",abc news24(au)
@@ -352,6 +348,10 @@ https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg",????1
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113227.png",NHK??(jp)
+http://203.162.235.41:16903
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113259.png",tv asahi(jp)
+http://203.162.235.41:16906
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-103800.png",Tokyo MX1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-103800.png",Tokyo MX2
