@@ -266,7 +266,7 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-105933.png",CNN Live
-http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112400.png",CNBC Asia
 https://hiplayer.hibridcdn.net/p/cnbcarabia-live
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110944.png",bbc world news
@@ -278,7 +278,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110340.png",sky new arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110418.png",ALJAZEERA
-http://160.119.77.117/iptv/uk-aljazeera.stream/chunks.m3u8
+https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113604.png",bloomberg
 https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110737.png",FOX NEWS
@@ -302,15 +302,15 @@ http://160.119.77.116:8081/iptv/sd-phoenixinfonews.stream/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112242.png",Alibi channel
 http://160.119.77.116:8081/iptv/uk-alibi.stream/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112434.png",FRANCE 24
-http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112513.png",DW
-http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112614.png",TV3 
 http://160.119.77.116:8081/iptv/ie-tv3.stream/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-30-125145.png",RT
 https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112843.png",arirang korea
-http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113009.png",TVBS ???(tw)
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113137.png",?????(tw)
