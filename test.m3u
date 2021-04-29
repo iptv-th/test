@@ -274,15 +274,13 @@ http://160.119.77.117/iptv/hd-bbcworldnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110132.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110258.png",sky new
-http://160.119.77.117/iptv/uk-skynews.stream/chunks.m3u8
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110340.png",sky new arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110418.png",ALJAZEERA
 http://160.119.77.117/iptv/uk-aljazeera.stream/chunks.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113604.png",bloomberg
 https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110623.png",NHK World
-http://160.119.77.117/iptv/sd-nhkworld.stream/chunks.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110737.png",FOX NEWS
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110737.png",FOX NEWS Now
@@ -290,9 +288,9 @@ https://lnc-fox-news-now.tubi.video/index.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110819.png",fox sport news
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-110902.png",bbc news
-http://160.119.77.117/iptv/uk-bbcnewshd.stream/chunks.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-111059.png",bbc one
-http://160.119.77.117/iptv/uk-bbc1hd.stream/chunks.m3u8
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-30-124722.jpg",BBC One Scotland
+http://51.52.156.22:8888/http/001
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-111142.png",bbc two
 http://160.119.77.117/iptv/uk-bbc2hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-111212.png",bbc three
@@ -303,17 +301,14 @@ http://160.119.77.117/iptv/uk-bbc4hd.stream/chunks.m3u8
 http://160.119.77.116:8081/iptv/sd-phoenixinfonews.stream/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112242.png",Alibi channel
 http://160.119.77.116:8081/iptv/uk-alibi.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112319.png",Sky1
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112434.png",FRANCE 24
 http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112513.png",DW
 http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112614.png",TV3 
 http://160.119.77.116:8081/iptv/ie-tv3.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112708.png",RTE ONE 
-http://160.119.77.116:8081/iptv/ie-rte1.stream/playlist.m3u8
-#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112749.png",RTE 2
-http://160.119.77.116:8081/iptv/ie-rte2.stream/playlist.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-30-125145.png",RT
+https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-112843.png",arirang korea
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-113009.png",TVBS ???(tw)
