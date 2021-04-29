@@ -366,6 +366,39 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-104316.png",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
 
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-29-073508.png",CCTV 1
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-29-073525.png",CCTV 2
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-29-073542.png",CCTV 3
+http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 4
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 5+
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 6
+http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 7
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 9
+http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 10
+http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 11
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 12
+http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 13
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 14
+http://223.82.250.72/live/cctv-14/1.m3u8
+#EXTINF:-1 group-title="ทีวี จีน" tvg-logo=" ",CCTV 15
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+
 #EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-28-111829.jpg",Justic League 2021
 https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Zack_Snyders_Justice_League_2021/Zack_Snyders_Justice_League_2021_ST.mp4/index.m3u8
 #EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-28-111908.jpg", รายา
