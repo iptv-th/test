@@ -202,15 +202,15 @@ https://www.we-play.tv/watching/tv/true-sports-hd-3
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-035949.png",TRUE SPORT HD4
 https://www.we-play.tv/watching/tv/true-sports-hd-4
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-061709.png",TRUE SPORT 2
-http://160.119.77.117/iptv/sd-tsport2.stream/chunks.m3u8
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png",TRUE SPORT 5
-http://160.119.77.117/iptv/sd-tsport5.stream/chunks.m3u8
+https://mediasv.online/tvchannel_x1/truesport5/playlist.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png",TRUE SPORT 6
-http://160.119.77.117/iptv/sd-tsport6.stream/chunks.m3u8
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",TRUE SPORT 7
-http://160.119.77.117/iptv/sd-tsport7.stream/chunks.m3u8
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="เวียดนาม" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-23-070808.png",VTV6-HD
+#EXTINF:-1 group-title="ทีวี เวียดนาม" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-23-070808.png",VTV6-HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-091726.png",AIS Bein1 
