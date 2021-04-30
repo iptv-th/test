@@ -210,9 +210,6 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="True sport"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",TRUE SPORT 7
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ทีวี เวียดนาม" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-23-070808.png",VTV6-HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
-
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-091726.png",AIS Bein1 
 https://www.we-play.tv/watching/tv/bein-sports-1
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-092232.png",Ais Bein2
@@ -387,6 +384,9 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 http://223.82.250.72/live/cctv-14/1.m3u8
 #EXTINF:-1 group-title="ทีวี จีน" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-29-075713.png",CCTV 15
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+
+#EXTINF:-1 group-title="ทีวี เวียดนาม" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-23-070808.png",VTV6-HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-28-111829.jpg",Justic League 2021
 https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Zack_Snyders_Justice_League_2021/Zack_Snyders_Justice_League_2021_ST.mp4/index.m3u8
