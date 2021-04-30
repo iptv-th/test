@@ -222,37 +222,6 @@ http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071125.jpg",Astro SUPERSPORT 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034226.png",BT Sport1 HD
-http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034401.png",BT Sport2 HD
-http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034450.png",BT Sport3 HD
-http://160.119.77.117/iptv/uk-btsport3hd.stream/chunks.m3u
-http://160.119.77.117/iptv/uk-btsportextra2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-111339.png",sky sport news
-http://160.119.77.117/iptv/uk-skysports-news.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035247.png",Sky sport EPL HD 
-http://160.119.77.117/iptv/uk-skysports-epl.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035340.png",Sky premiere HD   
-http://160.119.77.117/iptv/uk-premiersports.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035425.png",SKY Bundesliga HD 
-http://160.119.77.117/iptv/de-skybundesliga.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035614.png",Sky Sport event HD
-http://160.119.77.117/iptv/uk-skysports-mainevent.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035818.png",Sky sport football HD 
-http://160.119.77.117/iptv/uk-skysports-football.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035851.png",Sky sport mix HD 
-http://160.119.77.117/iptv/uk-skysports-mix.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035919.png",Sky sport Action HD  
-http://160.119.77.117/iptv/uk-skysports-action.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-035950.png",Sky sport arena HD  
-http://160.119.77.117/iptv/uk-skysports-arena.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-040019.png",Sky sport Golf HD   
-http://160.119.77.117/iptv/uk-skysports-golf.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-040056.png",Sky Sport F1 HD   
-http://160.119.77.117/iptv/uk-skysports-f1.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-040140.png",Sky Sport Racing HD
-http://160.119.77.117/iptv/uk-attheraces.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-105933.png",CNN Live
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
