@@ -225,8 +225,6 @@ http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071125.jpg",Astro SUPERSPORT 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034226.png",BT Sport1 HD
 http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-034401.png",BT Sport2 HD
@@ -258,15 +256,6 @@ http://160.119.77.117/iptv/uk-skysports-golf.stream/chunks.m3u8
 http://160.119.77.117/iptv/uk-skysports-f1.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-040140.png",Sky Sport Racing HD
 http://160.119.77.117/iptv/uk-attheraces.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103533.png",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103435.png",LFC TV
-http://160.119.77.117/iptv/uk-lfctv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103315.png",Man-U TV
-http://160.119.77.117/iptv/uk-mutv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Sport Clubs" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-24-103354.png",Chealsea TV
-http://160.119.77.117/iptv/uk-chelseatv.stream/chunks.m3u8
-
 
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-105933.png",CNN Live
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -361,7 +350,7 @@ https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-102438.jpg",NTV News24 
 https://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="JP;US" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-103904.png",NJPW World(การ์ตูน)
+#EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-103904.png",NJPW World(การ์ตูน)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="ทีวี ญี่ปุ่น" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-19-104316.png",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
