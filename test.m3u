@@ -215,13 +215,13 @@ https://www.we-play.tv/watching/tv/bein-sports-1
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-16-092232.png",Ais Bein2
 https://www.we-play.tv/watching/tv/bein-sports-2
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-070929.jpg",Astro SUPERSPORT 1
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071045.jpg",Astro SUPERSPORT 2
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071110.png",Astro SUPERSPORT 3
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071125.jpg",Astro SUPERSPORT 4
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-105933.png",CNN Live
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
