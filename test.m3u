@@ -228,6 +228,15 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-19-071125.jpg",Astro SUPERSPORT 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-15-101003.png",Star Sport HD1
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30630
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-15-101020.png",Star Sport HD2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30629
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-15-101129.png",STAR SPORTS SELECT 1 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30539
+#EXTINF:-1 group-title="Sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-15-101129.png",STAR SPORTS SELECT 2 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30538
+
 
 #EXTINF:-1 group-title="ข่าวต่างประเทศ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-17-105933.png",CNN Live
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
