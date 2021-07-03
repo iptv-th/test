@@ -371,6 +371,8 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 
 #EXTINF:-1 group-title="ทีวี เวียดนาม" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-23-070808.png",VTV6-HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="ทีวี เวียดนาม" tvg-logo="http://xemtruyenhinh.xyz/image/htvthethao.png",HTV The thao
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-28-111829.jpg",Justic League 2021
 https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Zack_Snyders_Justice_League_2021/Zack_Snyders_Justice_League_2021_ST.mp4/index.m3u8
