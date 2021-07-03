@@ -78,7 +78,7 @@ https://www.we-play.tv/watching/tv/discovery-asia
 http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 TH
 http://77.83.117.60:8888/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-26-044220.png",Natgeo Graphic Wild
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-07-03-073355.png",Natgeo Wild
 https://www.we-play.tv/watching/tv/nat-geo-wild
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-26-044220.png",Natgeo Graphic
 https://www.we-play.live/watching/tv/national-geographic
@@ -86,20 +86,20 @@ https://www.we-play.live/watching/tv/national-geographic
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="สาระคดี"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-071424.png",ANIMAL PLANET
 http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN  
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.doohdbox.com/assets/201707081756341945061266.jpg",PSI SARADEE99
-http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-072304.png",สำรวจโลก
 http://203.159.95.172:8081/live/explore/playlist.m3u8
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-30-121414.jpg",PSI SARADEE(สาระดี)
-http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-30-121518.png",เจริญเคเบิล ทีวี
-http://27.254.130.62/feed/LC32/index.m3u8
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-03-075252.png",Love Nature
 https://www.we-play.tv/watching/tv/lovenature-4k
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-03-075712.png",CRIME + INVESTIGATION
 http://203.154.177.124:8899/live/ch23/playlist.m3u8
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://www.doohdbox.com/assets/201707081756341945061266.jpg",PSI SARADEE99 รอ update
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-30-121414.jpg",PSI SARADEE(สาระดี) รอ update
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-30-121518.png",เจริญเคเบิล ทีวี รอ update
+http://27.254.130.62/feed/LC32/index.m3u8
+#EXTINF:-1 group-title="สาระคดี" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN  รอ update
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-072545.png",Explore Wild รอ update
 http://160.119.77.117/iptv/sd-expwild.stream/chunks.m3u8
 #EXTINF:-1 group-title="สาระคดี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-072507.png",Explore Life รอ update
