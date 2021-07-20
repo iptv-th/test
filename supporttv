@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/115-1155484_thao-tv-hd-png-download.png",VTVcab16 Thethao
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w1601154644_b2692000.m3u8
-#EXTINF:-1 tvg-logo="http://xemtruyenhinh.xyz/image/thethaotvhd.png",HTV The thao
-http://202.60.106.14:21585/vtvcab3/mono.m3u8
-#EXTINF:-1 tvg-logo="http://xemtruyenhinh.xyz/image/htvthethao.png",HTV The thao
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_av_vertical/1616561894_02.jpg", Milk Hall 3 - Ako Makino
+https://xavidol.com/movie/Milk-Hall-3---Ako-Makino
