@@ -133,6 +133,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-063403.png",Jasmin Channel
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1, group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-07-20-100958.png", A3 Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1, group-title="แฟชั่นโชว์ ทีวี" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-07-20-101805.png", Kaloopy TV
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
 #EXTINF:-1 group-title="True sport" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-24-060724.png",True PREMIER HD1
 https://www.we-play.tv/watching/tv/true-premier-football-hd-1
