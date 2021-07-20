@@ -47,7 +47,8 @@ https://www.we-play.tv/watching/tv/stingray-iconcerts
 #EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-01-043137.png",X-Zyte
 https://www.we-play.tv/watching/tv/true-xzyte
 
-
+#EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065202.png",Disney Channel
+https://www.doofree88.com/live/disney-xd
 #EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-28-104523.jpg",Toonee
 http://27.254.130.62/feed/LC23/index.m3u8
 #EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065641.png",Boomerang
@@ -57,11 +58,8 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 #EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-31-024409.png",Baby TV
 https://www.we-play.tv/watching/tv/babytv
 #EXTINF:-1 group-title="การ์ตูนเด็ก" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-31-024514.png",Aniplus TV
-https://www.we-play.tv/watching/tv/aniplus
-#EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065600.png",Cartoon Network
-https://www.we-play.tv/watching/tv/cartoon-network
-#EXTINF:-1, group-title="การ์ตูนเด็ก", tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-065202.png",Disney Channel รอ update
-https://www.doofree88.com/live/disney-xd
+
+
 
 #EXTINF:-1 group-title="สาระคดี"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-26-071335.png",Discovery
 https://www.we-play.tv/watching/tv/discovery-channel
@@ -337,9 +335,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="ทีวี เวียดนาม" tvg-logo="http://xemtruyenhinh.xyz/image/htvthethao.png",HTV The thao
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-28-111829.jpg",Justic League 2021
-https://cache-movie.all-movie.tv/hls/content/nas03/mvc/m/inter/Zack_Snyders_Justice_League_2021/Zack_Snyders_Justice_League_2021_ST.mp4/index.m3u8
-#EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-28-111908.jpg", รายา
-https://cdn.youlive-cdn.com/hls/918aa02a6d625969b6c54dcffb201909/918aa02a6d625969b6c54dcffb201909.m3u8
-#EXTINF:-1 group-title="ทดสอบ" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-30-122010.jpg",Godzilla vs Kong 2021
-https://vodm3.inwstream.com:1936/movie3/Godzilla_vs_Kong_2021/Godzilla_vs_Kong_2021_thr_z1.mp4/playlist.m3u8
+#EXTINF:-1 group-title="หนังใหม่2021"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-07-20-095815.png", Palmer - 2021
+https://www.doofree88.com/movie/palmer-2021
+#EXTINF:-1 group-title="หนังใหม่2021"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-07-20-095951.jpg", Finding Ohana (2021)
+https://www.doofree88.com/movie/finding-ohana-2021
